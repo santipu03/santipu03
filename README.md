@@ -1,6 +1,7 @@
-### Hi there 👋
+### Hi, I'm Santiago 👋
+Hi, I'm Santiago and I'm in the path of becoming a full stack developer. 
 
-## 🔧 Technologies and Tools
+### 🔧 Technologies and Tools
 
 <!--
 **santipu03/santipu03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
