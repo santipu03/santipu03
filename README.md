@@ -103,6 +103,6 @@
 <a href="https://github.com/santipu03/todo-list">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=santipu03&repo=todo-list" />
 </a>
-<a href="https://github.com/santipu03/weatherApp">
+<a href="https://github.com/santipu03/Shopping-Cart">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=santipu03&repo=weatherApp" />
 </a>
