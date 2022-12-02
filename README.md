@@ -61,16 +61,26 @@
       />
       <br /><strong>React</strong>
     </td>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"
+        width="48"
+        height="48"
+        alt="nextjs"
+      />
+      <br /><strong>Nextjs</strong>
+    </td>
+    
   </tr>
   <tr>
     <td align="center" height="108" width="108">
       <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg"
         width="48"
         height="48"
-        alt="Node.js"
+        alt="Solidity"
       />
-      <br /><strong>Node.js</strong>
+      <br /><strong>Solidity</strong>
     </td>
     <td align="center" height="108" width="108">
       <img
@@ -92,19 +102,28 @@
     </td>
     <td align="center" height="108" width="108">
       <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"
         width="48"
         height="48"
-        alt="Jest"
+        alt="Node.js"
       />
-      <br /><strong>Jest</strong>
+      <br /><strong>Node.js</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg"
+        width="48"
+        height="48"
+        alt="mysql"
+      />
+      <br /><strong>MySQL</strong>
     </td>
   </tr>
 </table>
 
 <br>
 
-## 📊 Stats
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> Stats
 
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=santipu03&show_icons=true&include_all_commits=true&hide_border=true" alt="santipu's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=santipu03&layout=compact&hide_border=true" /></a> |
 | ------------- | ------------- |
@@ -114,9 +133,12 @@
 
 ## Top Repositories
 
-<a href="https://github.com/santipu03/todo-list">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=santipu03&repo=todo-list" />
+<a href="https://github.com/santipu03/nextjs-nft-marketplace-thegraph-fcc">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=santipu03&repo=nextjs-nft-marketplace-thegraph-fcc" />
 </a>
-<a href="https://github.com/santipu03/Shopping-Cart">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=santipu03&repo=Shopping-Cart" />
+<a href="https://github.com/santipu03/hardhat-nft-marketplace-fcc">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=santipu03&repo=hardhat-nft-marketplace-fcc" />
+</a>
+<a href="https://github.com/santipu03/hardhat-smartcontract-lottery-fcc">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=santipu03&repo=hardhat-smartcontract-lottery-fcc" />
 </a>
