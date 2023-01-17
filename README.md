@@ -3,7 +3,7 @@
 </h3>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?size=25&width=700&color=4f94ef&center=true&lines=I'm+a+19+years+old+developer+from+Barcelona;Always+learning+new+things!"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?size=25&width=700&color=4f94ef&center=true&lines=I'm+a+20+years+old+developer+from+Barcelona;Always+learning+new+things!"></a>
 </p>
 
 
