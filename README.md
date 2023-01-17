@@ -125,7 +125,7 @@
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> Stats
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=santipu03&show_icons=true&include_all_commits=true&hide_border=true" alt="santipu's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=santipu03&layout=compact&hide_border=true" /></a> |
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats-two-mauve-45.vercel.app/api?username=santipu03&show_icons=true&include_all_commits=true&hide_border=true" alt="santipu's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats-two-mauve-45.vercel.app/api/top-langs/?username=santipu03&layout=compact&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 
@@ -134,8 +134,8 @@
 ## Top Repositories
 
 <a href="https://github.com/santipu03/nextjs-nft-marketplace-thegraph-fcc">
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=santipu03&repo=nextjs-nft-marketplace-thegraph-fcc" />
+<img align="center" src="https://github-readme-stats-two-mauve-45.vercel.app/api/pin/?username=santipu03&repo=nextjs-nft-marketplace-thegraph-fcc" />
 </a>
 <a href="https://github.com/santipu03/hardhat-smartcontract-lottery-fcc">
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=santipu03&repo=hardhat-smartcontract-lottery-fcc" />
+<img align="center" src="https://github-readme-stats-two-mauve-45.vercel.app/api/pin/?username=santipu03&repo=hardhat-smartcontract-lottery-fcc" />
 </a>
