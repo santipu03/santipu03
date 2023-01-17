@@ -136,4 +136,6 @@
 <a href="https://github.com/santipu03/nextjs-nft-marketplace-thegraph-fcc">
 <img align="center" src="https://github-readme-stats-two-mauve-45.vercel.app/api/pin/?username=santipu03&repo=nextjs-nft-marketplace-thegraph-fcc" />
 </a>
-
+<a href="https://github.com/santipu03/hardhat-smartcontract-lottery-fcc">
+<img align="center" src="https://github-readme-stats-two-mauve-45.vercel.app/api/pin/?username=santipu03&repo=hardhat-smartcontract-lottery-fcc" />
+</a>
