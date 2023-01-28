@@ -3,7 +3,7 @@
 </h3>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?size=25&width=700&color=4f94ef&center=true&lines=I'm+a+20+years+old+developer+from+Barcelona;Always+learning+new+things!"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?size=25&width=700&color=4f94ef&center=true&lines=I'm+a+20+year+old+developer+from+Barcelona;Currently+digging+into+the+EVM!"></a>
 </p>
 
 
@@ -13,9 +13,9 @@
 <br>
 
 - A passionate self-taught web3 developer
-- Playing Ethereum CTF's at spare time
-- Currently learning Solidity
-- I’m currently open for an Intern or a new job opportunity
+- Currently learning Solidity (and trying Yul...)
+- In the road of auditing Smart Contracts
+- Football referee in the weekends 😛
 
 <br><br>
 
