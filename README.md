@@ -1,135 +1,33 @@
-<h3 align="center">
-  Hi, I'm Santiago! 👋
-</h3>
+# Security Portfolio - Santipu
 
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?size=25&width=700&color=4f94ef&center=true&lines=I'm+a+20+year+old+developer+from+Barcelona;Currently+digging+into+the+EVM!"></a>
-</p>
+To contact me, [**@santipu_**](https://twitter.com/santipu_) on twitter
 
+## 🔎 Competitive Audits 
 
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture>About Me
-<picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/programming.svg" width = 250px></picture>
+| Contest                | Ranking | Date          | Platform       | Report  |
+|------------------------|---------|---------------|----------------|---------|
+|  Venus Prime           | 8th     | October 2023  | Code4rena      |  [link](https://code4rena.com/reports/2023-09-venus)       |
+|  Ajna                  | 3rd     | October 2023  | Sherlock       |  [link](https://audits.sherlock.xyz/contests/114/report)        |
+|  Ethereum Credit Guild | _?_     | December 2023 | Code4rena      |  _Pending_              |
+|  Curves                | _?_     | January 2024  | Code4rena      |  _Pending_                  |
 
-<br>
+<br><br>
 
-- Web Developer during the day
-- Web3 Security Researcher during the night
+## 🐞 Bug Bounties
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> Skills
+| Protocol               | Date          | Severity    | Reward (USD)   | Report  |
+|------------------------|---------------|--------------|--|---------|
+|  [RociFi](https://defillama.com/protocol/rocifi)                  | April 2023    | Critical       | 500| [link](https://github.com/santipu03/audits/blob/main/bug-bounties/RociFi.md)       |
+|  [Umami Finance](https://defillama.com/protocol/umami-finance)    | January 2024  | Medium  | 3.5k| _private_         |
+|  [Umami Finance](https://defillama.com/protocol/umami-finance)    | January 2024  | High  | 3.5k| _private_         |
+|  [Vaultka](https://defillama.com/protocol/vaultka)                | January 2024  | Medium  | 2k|_private_         |
 
-<table>
-  <tr>
-    <td align="center" height="108" width="108">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg"
-        width="48"
-        height="48"
-        alt="HTML"
-      />
-      <br /><strong>HTML5</strong>
-    </td>
-    <td align="center" height="108" width="108">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg"
-        width="48"
-        height="48"
-        alt="CSS3"
-      />
-      <br /><strong>CSS3</strong>
-    </td>
-    <td align="center" height="108" width="108">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"
-        width="48"
-        height="48"
-        alt="JavaScript"
-      />
-      <br /><strong>JavaScript</strong>
-    </td>
-    <td align="center" height="108" width="108">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
-        width="48"
-        height="48"
-        alt="React"
-      />
-      <br /><strong>React</strong>
-    </td>
-    <td align="center" height="108" width="108">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"
-        width="48"
-        height="48"
-        alt="nextjs"
-      />
-      <br /><strong>Nextjs</strong>
-    </td>
-    
-  </tr>
-  <tr>
-    <td align="center" height="108" width="108">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg"
-        width="48"
-        height="48"
-        alt="Solidity"
-      />
-      <br /><strong>Solidity</strong>
-    </td>
-    <td align="center" height="108" width="108">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
-        width="48"
-        height="48"
-        alt="Git"
-      />
-      <br /><strong>Git</strong>
-    </td>
-    <td align="center" height="108" width="108">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg"
-        width="48"
-        height="48"
-        alt="Npm"
-      />
-      <br /><strong>Java</strong>
-    </td>
-    <td align="center" height="108" width="108">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"
-        width="48"
-        height="48"
-        alt="Node.js"
-      />
-      <br /><strong>Node.js</strong>
-    </td>
-    <td align="center" height="108" width="108">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg"
-        width="48"
-        height="48"
-        alt="mysql"
-      />
-      <br /><strong>MySQL</strong>
-    </td>
-  </tr>
-</table>
+<br><br>
 
-<br>
+## 👥 Team Audits
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> Stats
-
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats-two-mauve-45.vercel.app/api?username=santipu03&show_icons=true&include_all_commits=true&hide_border=true" alt="santipu's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats-two-mauve-45.vercel.app/api/top-langs/?username=santipu03&layout=compact&hide_border=true" /></a> |
-| ------------- | ------------- |
-
-
-<br/>
-
-## Top Repositories
-
-<a href="https://github.com/santipu03/token-indexer">
-<img align="center" src="https://github-readme-stats-two-mauve-45.vercel.app/api/pin/?username=santipu03&repo=token-indexer" />
-</a>
-<a href="https://github.com/santipu03/hardhat-smartcontract-lottery-fcc">
-<img align="center" src="https://github-readme-stats-two-mauve-45.vercel.app/api/pin/?username=santipu03&repo=hardhat-smartcontract-lottery-fcc" />
-</a>
+| Contest  | Date         | Platform      | Report  |
+|----------|--------------|---------------|---------|
+|  Poodl   |  March 2023  | Solidity Lab  |  [link](https://github.com/santipu03/audits/blob/main/team/Poodl.md)       |
+|  DIVA    |  April 2023  | Solidity Lab  |  [link](https://github.com/santipu03/audits/blob/main/team/Diva.md)        |
+|Perennial |  July 2023   | Sherlock      |  [link](https://audits.sherlock.xyz/contests/79/report)                    |
