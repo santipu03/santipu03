@@ -6,10 +6,11 @@ To contact me, [**@santipu_**](https://twitter.com/santipu_) on twitter
 
 | Contest                | Ranking | Date          | Platform       | Report  |
 |------------------------|---------|---------------|----------------|---------|
-|  Venus Prime           | 8th     | October 2023  | Code4rena      |  [link](https://code4rena.com/reports/2023-09-venus)       |
-|  Ajna                  | 3rd     | October 2023  | Sherlock       |  [link](https://audits.sherlock.xyz/contests/114/report)        |
-|  Ethereum Credit Guild | _?_     | December 2023 | Code4rena      |  _Pending_              |
-|  Curves                | _?_     | January 2024  | Code4rena      |  _Pending_                  |
+|  [Venus Prime](https://code4rena.com/audits/2023-09-venus-prime)           | 8th     | October 2023  | Code4rena      |  [link](https://code4rena.com/reports/2023-09-venus)       |
+|  [Ajna](https://audits.sherlock.xyz/contests/114)                  | 3rd     | October 2023  | Sherlock       |  [link](https://audits.sherlock.xyz/contests/114/report)        |
+|  [Ethereum Credit Guild](https://code4rena.com/audits/2023-12-ethereum-credit-guild) | 4th     | December 2023 | Code4rena      |  _Pending_              |
+|  [Curves](https://code4rena.com/audits/2024-01-curves#top)                | _?_     | January 2024  | Code4rena      |  _Pending_                  |
+|  [Flat Money](https://audits.sherlock.xyz/contests/132)            | _?_     | January 2024  | Sherlock       |  _Pending_                  |
 
 <br><br>
 
