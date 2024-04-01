@@ -11,7 +11,9 @@ To contact me, [**@santipu_**](https://twitter.com/santipu_) on twitter
 |  [Ethereum Credit Guild](https://code4rena.com/audits/2023-12-ethereum-credit-guild) | 4th     | December 2023 | Code4rena      |  [link](https://code4rena.com/reports/2023-12-ethereumcreditguild)              |
 |  [Curves](https://code4rena.com/audits/2024-01-curves#top)                | 5th     | January 2024  | Code4rena      |  _Pending_                  |
 |  [Flat Money](https://audits.sherlock.xyz/contests/132)            | 🥈 2nd     | January 2024  | Sherlock       |  [link](https://github.com/sherlock-audit/2023-12-flatmoney-judging/issues)               |
+|  [Smilee Finance](https://audits.sherlock.xyz/contests/180)            | 🥉 3rd     | February 2024  | Sherlock       |  [link](https://github.com/sherlock-audit/2024-02-smilee-finance-judging/issues)              |
 |  [Perpetual](https://audits.sherlock.xyz/contests/219)            | _pending_     | March 2024  | Sherlock       |  _pending_              |
+|  [vVv Vesting & Staking](https://audits.sherlock.xyz/contests/278)            | _pending_     | March 2024  | Sherlock       |  _pending_              |
 
 <br><br>
 
