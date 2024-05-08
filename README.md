@@ -12,8 +12,11 @@ To contact me, [**@santipu_**](https://twitter.com/santipu_) on twitter
 |  [Curves](https://code4rena.com/audits/2024-01-curves#top)                | 5th     | January 2024  | Code4rena      |  _Pending_                  |
 |  [Flat Money](https://audits.sherlock.xyz/contests/132)            | 🥈 2nd     | January 2024  | Sherlock       |  [link](https://github.com/sherlock-audit/2023-12-flatmoney-judging/issues)               |
 |  [Smilee Finance](https://audits.sherlock.xyz/contests/180)            | 🥉 3rd     | February 2024  | Sherlock       |  [link](https://github.com/sherlock-audit/2024-02-smilee-finance-judging/issues)              |
-|  [Perpetual](https://audits.sherlock.xyz/contests/219)            | _pending_     | March 2024  | Sherlock       |  _pending_              |
+|  [Perpetual](https://audits.sherlock.xyz/contests/219)            | 7th     | March 2024  | Sherlock       |  [link](https://github.com/sherlock-audit/2024-02-perpetual-judging/issues)              |
 |  [vVv Vesting & Staking](https://audits.sherlock.xyz/contests/278)            | _pending_     | March 2024  | Sherlock       |  _pending_              |
+|  [Flat Money Fix Review](https://audits.sherlock.xyz/contests/287)            | 🥈 2nd     | April 2024  | Sherlock       |  [link](https://github.com/sherlock-audit/2024-03-flat-money-fix-review-contest-judging/issues)              |
+|  [Exactly](https://audits.sherlock.xyz/contests/247)            | _pending_     | April 2024  | Sherlock       |  _pending_              |
+
 
 <br><br>
 
