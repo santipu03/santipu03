@@ -4,7 +4,7 @@ To contact me, [**@santipu_**](https://twitter.com/santipu_) on twitter
 
 ## 🔎 Competitive Audits 
 
-| Contest                | Ranking | Date          | Platform       | Report  |
+| Contest                | Ranking | Date Start         | Platform       | Report  |
 |------------------------|---------|---------------|----------------|---------|
 |  [Venus Prime](https://code4rena.com/audits/2023-09-venus-prime)           | 8th     | October 2023  | Code4rena      |  [link](https://code4rena.com/reports/2023-09-venus)       |
 |  [Ajna](https://audits.sherlock.xyz/contests/114)                  | 🥉 3rd     | October 2023  | Sherlock       |  [link](https://github.com/sherlock-audit/2023-09-ajna-judging/issues)        |
@@ -15,6 +15,7 @@ To contact me, [**@santipu_**](https://twitter.com/santipu_) on twitter
 |  [Perpetual](https://audits.sherlock.xyz/contests/219)            | 7th     | March 2024  | Sherlock       |  [link](https://github.com/sherlock-audit/2024-02-perpetual-judging/issues)              |
 |  [Flat Money Fix Review](https://audits.sherlock.xyz/contests/287)            | 🥈 2nd     | April 2024  | Sherlock       |  [link](https://github.com/sherlock-audit/2024-03-flat-money-fix-review-contest-judging/issues)              |
 |  [Exactly](https://audits.sherlock.xyz/contests/247)            | 🥈 2nd      | April 2024  | Sherlock       |  [link](https://github.com/sherlock-audit/2024-04-interest-rate-model-judging/issues)              |
+|  [dHEDGE](https://audits.sherlock.xyz/contests/288)            | _pending_      | June 2024  | Sherlock       |  _pending_              |
 
 
 <br><br>
