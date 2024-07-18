@@ -15,7 +15,7 @@ To contact me, [**@santipu_**](https://twitter.com/santipu_) on twitter
 |  [Perpetual](https://audits.sherlock.xyz/contests/219)            | 7th     | March 2024  | Sherlock       |  [link](https://github.com/sherlock-audit/2024-02-perpetual-judging/issues)              |
 |  [Flat Money Fix Review](https://audits.sherlock.xyz/contests/287)            | 🥈 2nd     | April 2024  | Sherlock       |  [link](https://github.com/sherlock-audit/2024-03-flat-money-fix-review-contest-judging/issues)              |
 |  [Exactly](https://audits.sherlock.xyz/contests/247)            | 🥈 2nd      | April 2024  | Sherlock       |  [link](https://github.com/sherlock-audit/2024-04-interest-rate-model-judging/issues)              |
-|  [dHEDGE](https://audits.sherlock.xyz/contests/288)            | _pending_      | June 2024  | Sherlock       |  _pending_              |
+|  [dHEDGE](https://audits.sherlock.xyz/contests/288)            | 🥇 1st     | June 2024  | Sherlock       |  [link](https://audits.sherlock.xyz/contests/288/leaderboard)       |
 
 
 <br><br>
