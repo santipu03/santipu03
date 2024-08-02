@@ -1,8 +1,15 @@
 # Security Portfolio - Santipu
 
+Hello there! 🙌
+I'm a **Blockchain Security Researcher** whose job is to catch bugs and prevent blackhats from stealing money. 🐛
+<br>
+Also, I'm a **Senior Watson** at [Sherlock](https://www.sherlock.xyz/), which is one of the top-tier audit marketplaces. 
+
 To contact me, [**@santipu_**](https://twitter.com/santipu_) on twitter
 
 ## 🔎 Competitive Audits 
+
+Audit contests are the fastest way to improve my auditing skills because I compete against hundreds of security researchers worldwide. This allows me to learn from the best ones and earn some experience, at the same time that I get rewarded. 🫡
 
 | Contest                | Ranking | Date Start         | Platform       | Report  |
 |------------------------|---------|---------------|----------------|---------|
@@ -22,6 +29,8 @@ To contact me, [**@santipu_**](https://twitter.com/santipu_) on twitter
 
 ## 🐞 Bug Bounties
 
+From time to time, I like to dedicate some time to catching bugs in the wild. 
+
 | Protocol               | Date          | Severity    | Reward (USD)   | Report  |
 |------------------------|---------------|--------------|--|---------|
 |  [RociFi](https://defillama.com/protocol/rocifi)                  | April 2023    | Critical       | 500| [link](https://github.com/santipu03/audits/blob/main/bug-bounties/RociFi.md)       |
@@ -34,8 +43,13 @@ To contact me, [**@santipu_**](https://twitter.com/santipu_) on twitter
 
 ## 👥 Team Audits
 
-| Contest  | Date         | Platform      | Report  |
+Auditing with a team is also a great way of improving my skills because I get to learn from the mindset and process of some stellar security researchers. 
+
+|    Audit     |    Date      | Platform/Company      | Report  |
 |----------|--------------|---------------|---------|
-|  Poodl   |  March 2023  | Solidity Lab  |  [link](https://github.com/santipu03/audits/blob/main/team/Poodl.md)       |
-|  DIVA    |  April 2023  | Solidity Lab  |  [link](https://github.com/santipu03/audits/blob/main/team/Diva.md)        |
-|Perennial |  July 2023   | Sherlock      |  [link](https://audits.sherlock.xyz/contests/79/report)                    |
+|    Poodl     |  March 2023  | Solidity Lab  |  [link](https://github.com/santipu03/audits/blob/main/team/Poodl.md)       |
+|    DIVA      |  April 2023  | Solidity Lab  |  [link](https://github.com/santipu03/audits/blob/main/team/Diva.md)        |
+|  Perennial   |  July 2023   | [Sherlock](https://www.sherlock.xyz/)      |  [link](https://audits.sherlock.xyz/contests/79/report)                    |
+|  Defi.Money  |  July 2024   | [Bailsec](https://bailsec.io/)      |  _pending_                   |
+| Ion Protocol |  July 2024   | [Pashov Audit Group](https://www.pashov.net/)      |  _pending_               |
+
