@@ -22,8 +22,8 @@ Audit contests are the fastest way to improve my auditing skills because I compe
 |  [Perpetual](https://audits.sherlock.xyz/contests/219)            | 7th     | March 2024  | Sherlock       |  [link](https://github.com/sherlock-audit/2024-02-perpetual-judging/issues)              |
 |  [Flat Money Fix Review](https://audits.sherlock.xyz/contests/287)            | 🥈 2nd     | April 2024  | Sherlock       |  [link](https://github.com/sherlock-audit/2024-03-flat-money-fix-review-contest-judging/issues)              |
 |  [Exactly](https://audits.sherlock.xyz/contests/247)            | 🥈 2nd      | April 2024  | Sherlock       |  [link](https://github.com/sherlock-audit/2024-04-interest-rate-model-judging/issues)              |
-|  [dHEDGE](https://audits.sherlock.xyz/contests/288)            | 🥇 1st     | June 2024  | Sherlock       |  [link](https://audits.sherlock.xyz/contests/288/leaderboard)       |
-
+|  [dHEDGE](https://audits.sherlock.xyz/contests/288)            | 🥇 1st     | June 2024  | Sherlock       |  _private_   |
+|  [MagicSea](https://audits.sherlock.xyz/contests/437)            | 🥇 1st     | July 2024  | Sherlock       |  [link](https://github.com/sherlock-audit/2024-06-magicsea-judging/issues)       |
 
 <br><br>
 
