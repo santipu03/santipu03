@@ -27,6 +27,20 @@ Audit contests are the fastest way to improve my auditing skills because I compe
 
 <br><br>
 
+## 👥 Team Audits
+
+Auditing with a team is also a great way of improving my skills because I get to learn from the mindset and process of some stellar security researchers. 
+
+|    Audit     |    Date      | Platform/Company      | Report  |
+|----------|--------------|---------------|---------|
+|    Poodl     |  March 2023  | Solidity Lab  |  [link](https://github.com/santipu03/audits/blob/main/team/Poodl.md)       |
+|    DIVA      |  April 2023  | Solidity Lab  |  [link](https://github.com/santipu03/audits/blob/main/team/Diva.md)        |
+|  Perennial   |  July 2023   | [Sherlock](https://www.sherlock.xyz/)      |  [link](https://audits.sherlock.xyz/contests/79/report)                    |
+|  Defi.Money  |  July 2024   | [Bailsec](https://bailsec.io/)      |  _pending_                   |
+| Ion Protocol |  July 2024   | [Pashov Audit Group](https://www.pashov.net/)      |  _pending_               |
+
+<br><br>
+
 ## 🐞 Bug Bounties
 
 From time to time, I like to dedicate some time to catching bugs in the wild. 
@@ -39,17 +53,4 @@ From time to time, I like to dedicate some time to catching bugs in the wild.
 |  [Vaultka](https://defillama.com/protocol/vaultka)                | January 2024  | Medium  | 2k|_private_         |
 |  [Plutus DAO](https://defillama.com/protocol/plutusdao)           | January 2024  | Medium  | 1k|_private_         |
 
-<br><br>
-
-## 👥 Team Audits
-
-Auditing with a team is also a great way of improving my skills because I get to learn from the mindset and process of some stellar security researchers. 
-
-|    Audit     |    Date      | Platform/Company      | Report  |
-|----------|--------------|---------------|---------|
-|    Poodl     |  March 2023  | Solidity Lab  |  [link](https://github.com/santipu03/audits/blob/main/team/Poodl.md)       |
-|    DIVA      |  April 2023  | Solidity Lab  |  [link](https://github.com/santipu03/audits/blob/main/team/Diva.md)        |
-|  Perennial   |  July 2023   | [Sherlock](https://www.sherlock.xyz/)      |  [link](https://audits.sherlock.xyz/contests/79/report)                    |
-|  Defi.Money  |  July 2024   | [Bailsec](https://bailsec.io/)      |  _pending_                   |
-| Ion Protocol |  July 2024   | [Pashov Audit Group](https://www.pashov.net/)      |  _pending_               |
 
