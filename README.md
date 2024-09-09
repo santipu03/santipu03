@@ -50,7 +50,7 @@ From time to time, I like to dedicate some time to catching bugs in the wild.
 
 | Protocol               | Date          | Severity    | Reward (USD)   | Report  |
 |------------------------|---------------|--------------|--|---------|
-|  [RociFi](https://defillama.com/protocol/rocifi)                  | April 2023    | Critical       | 500| [link](https://github.com/santipu03/audits/blob/main/bug-bounties/RociFi.md)       |
+|  [RociFi](https://defillama.com/protocol/rocifi)                  | April 2023    | Critical       | 500| [link](https://github.com/santipu03/santipu03/blob/main/bug-bounties/RociFi.md)       |
 |  [Umami Finance](https://defillama.com/protocol/umami-finance)    | January 2024  | Medium  | 3.5k| _private_         |
 |  [Umami Finance](https://defillama.com/protocol/umami-finance)    | January 2024  | High  | 3.5k| _private_         |
 |  [Vaultka](https://defillama.com/protocol/vaultka)                | January 2024  | Medium  | 2k|_private_         |
