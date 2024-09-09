@@ -33,11 +33,14 @@ Auditing with a team is also a great way of improving my skills because I get to
 
 |    Audit     |    Date      | Platform/Company      | Report  |
 |----------|--------------|---------------|---------|
-|    Poodl     |  March 2023  | Solidity Lab  |  [link](https://github.com/santipu03/audits/blob/main/team/Poodl.md)       |
-|    DIVA      |  April 2023  | Solidity Lab  |  [link](https://github.com/santipu03/audits/blob/main/team/Diva.md)        |
+|    Poodl     |  March 2023  | Solidity Lab  |  [link](https://github.com/santipu03/santipu03/blob/main/team-audits/SolidityLab_Poodl.md)       |
+|    DIVA      |  April 2023  | Solidity Lab  |  [link](https://github.com/santipu03/santipu03/blob/main/team-audits/SolidityLab_Diva.md)        |
 |  Perennial   |  July 2023   | [Sherlock](https://www.sherlock.xyz/)      |  [link](https://audits.sherlock.xyz/contests/79/report)                    |
-|  Defi.Money  |  July 2024   | [Bailsec](https://bailsec.io/)      |  _pending_                   |
-| Ion Protocol |  July 2024   | [Pashov Audit Group](https://www.pashov.net/)      |  _pending_               |
+|  Defi.Money  |  July 2024   | [Bailsec](https://bailsec.io/)      |  [link](https://github.com/santipu03/santipu03/blob/main/team-audits/Bailsec_defiMoney_Report.pdf)                  |
+| Ion Protocol |  July 2024   | [Pashov Audit Group](https://www.pashov.net/)      |  [link](https://github.com/santipu03/santipu03/blob/main/team-audits/Pashov_Ion_Report.pdf)               |
+| InterPol |  September 2024   | [Pashov Audit Group](https://www.pashov.net/)      |  _pending_               |
+| _Undisclosed_ |  September 2024   | [Pashov Audit Group](https://www.pashov.net/)      |  _pending_             |
+
 
 <br><br>
 
