@@ -39,7 +39,7 @@ Auditing with a team is also a great way of improving my skills because I get to
 |  Defi.Money  |  July 2024   | [Bailsec](https://bailsec.io/)      |  [link](https://github.com/santipu03/santipu03/blob/main/team-audits/Bailsec_defiMoney_Report.pdf)                  |
 | Ion Protocol |  July 2024   | [Pashov Audit Group](https://www.pashov.net/)      |  [link](https://github.com/santipu03/santipu03/blob/main/team-audits/Pashov_Ion_Report.pdf)               |
 | InterPol |  September 2024   | [Pashov Audit Group](https://www.pashov.net/)      |  _pending_               |
-| _Undisclosed_ |  September 2024   | [Pashov Audit Group](https://www.pashov.net/)      |  _pending_             |
+| Aave |  September 2024   | [Pashov Audit Group](https://www.pashov.net/)      |  [link](https://github.com/pashov/audits/blob/master/team/pdf/Aave-security-review.pdf)             |
 
 
 <br><br>
