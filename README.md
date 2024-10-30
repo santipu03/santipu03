@@ -1,11 +1,10 @@
 # Security Portfolio - Santipu
 
 Hello there! 🙌
-I'm a **Blockchain Security Researcher** whose job is to catch bugs and prevent blackhats from stealing money. 🐛
-<br>
-Also, I'm a **Senior Watson** at [Sherlock](https://www.sherlock.xyz/), which is one of the top-tier audit marketplaces. 
 
-To contact me, [**@santipu_**](https://twitter.com/santipu_) on twitter
+I’m Santipu, a **Blockchain Security Researcher** who mainly works on contest platforms such as [Sherlock](https://www.sherlock.xyz/), [Code4rena](https://code4rena.com/), and [Cantina](https://cantina.xyz/). I’ve had the chance to place on the podium multiple times in audit contests, including a few first-place finishes, and I’ve collaborated with leading audit firms like [Pashov Audit Group](https://www.pashov.net/) and [Bailsec](https://bailsec.io/).
+
+Feel free to reach out to me on X (formerly Twitter) at [@santipu_](https://x.com/santipu_).
 
 ## 🔎 Competitive Audits 
 
