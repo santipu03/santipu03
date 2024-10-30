@@ -38,7 +38,7 @@ Audit contests are the fastest way to improve my auditing skills because I compe
 | [InterPol](https://app.notinterpol.com/) |  September 2024   | [Pashov Audit Group](https://www.pashov.net/)      | Team | _pending_               |
 | [Aave](https://aave.com/) |  September 2024   | [Pashov Audit Group](https://www.pashov.net/)      | Team | [link](https://github.com/pashov/audits/blob/master/team/pdf/Aave-security-review.pdf)             |
 | [Stader Labs](https://www.staderlabs.com/) |  October 2024   | [Bailsec](https://bailsec.io/)      | Team |  _pending_             |
-| [dHEDGE](https://dhedge.org/) |  October 2024   | N/A      | Solo |  _pending_             |
+| [dHEDGE](https://dhedge.org/) |  October 2024   | N/A      | Solo |  [link](https://github.com/santipu03/santipu03/blob/main/solo-audits/dHEDGE_SAW.md)             |
 | [LFJ](https://lfj.gg/avalanche) (prev. Trader Joe) |  October 2024   | [Bailsec](https://bailsec.io/)      | Team |  _pending_             |
 
 
@@ -46,7 +46,7 @@ Audit contests are the fastest way to improve my auditing skills because I compe
 
 ## 🐞 Bug Bounties
 
-From time to time, I like to dedicate some time to catching bugs in the wild. 
+Occasionally, I like to dedicate some time to catching bugs in the wild. 
 
 | Protocol               | Date          | Severity    | Reward (USD)   | Report  |
 |------------------------|---------------|--------------|--|---------|
