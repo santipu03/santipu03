@@ -25,24 +25,24 @@ Audit contests are the fastest way to improve my auditing skills because I compe
 |  [dHEDGE](https://audits.sherlock.xyz/contests/288)            | 🥇 1st     | June 2024  | Sherlock       |  _private_   |
 |  [MagicSea](https://audits.sherlock.xyz/contests/437)            | 🥇 1st     | July 2024  | Sherlock       |  [link](https://github.com/sherlock-audit/2024-06-magicsea-judging/issues)       |
 
-<br><br>
+<br>
 
-## 👥 Team Audits
+## 🥊 Private Audits
 
-Auditing with a team is also a great way of improving my skills because I get to learn from the mindset and process of some stellar security researchers. 
+|    Audit     |    Date      | Company      | Solo/Team |  Report  |
+|----------|--------------|---------------|----|-----|
+|    Poodl     |  March 2023  | Solidity Lab  | Team| [link](https://github.com/santipu03/santipu03/blob/main/team-audits/SolidityLab_Poodl.md)       |
+|    DIVA      |  April 2023  | Solidity Lab  | Team | [link](https://github.com/santipu03/santipu03/blob/main/team-audits/SolidityLab_Diva.md)        |
+|  [Defi.Money](https://defi.money/)  |  July 2024   | [Bailsec](https://bailsec.io/)      |Team |  [link](https://github.com/santipu03/santipu03/blob/main/team-audits/Bailsec_defiMoney_Report.pdf)                  |
+| [Ion Protocol](https://ionprotocol.io/) |  July 2024   | [Pashov Audit Group](https://www.pashov.net/)      | Team | [link](https://github.com/santipu03/santipu03/blob/main/team-audits/Pashov_Ion_Report.pdf)               |
+| [InterPol](https://app.notinterpol.com/) |  September 2024   | [Pashov Audit Group](https://www.pashov.net/)      | Team | _pending_               |
+| [Aave](https://aave.com/) |  September 2024   | [Pashov Audit Group](https://www.pashov.net/)      | Team | [link](https://github.com/pashov/audits/blob/master/team/pdf/Aave-security-review.pdf)             |
+| [Stader Labs](https://www.staderlabs.com/) |  October 2024   | [Bailsec](https://bailsec.io/)      | Team |  _pending_             |
+| [dHEDGE](https://dhedge.org/) |  October 2024   | N/A      | Solo |  _pending_             |
+| [LFJ](https://lfj.gg/avalanche) (prev. Trader Joe) |  October 2024   | [Bailsec](https://bailsec.io/)      | Team |  _pending_             |
 
-|    Audit     |    Date      | Platform/Company      | Report  |
-|----------|--------------|---------------|---------|
-|    Poodl     |  March 2023  | Solidity Lab  |  [link](https://github.com/santipu03/santipu03/blob/main/team-audits/SolidityLab_Poodl.md)       |
-|    DIVA      |  April 2023  | Solidity Lab  |  [link](https://github.com/santipu03/santipu03/blob/main/team-audits/SolidityLab_Diva.md)        |
-|  Perennial   |  July 2023   | [Sherlock](https://www.sherlock.xyz/)      |  [link](https://audits.sherlock.xyz/contests/79/report)                    |
-|  Defi.Money  |  July 2024   | [Bailsec](https://bailsec.io/)      |  [link](https://github.com/santipu03/santipu03/blob/main/team-audits/Bailsec_defiMoney_Report.pdf)                  |
-| Ion Protocol |  July 2024   | [Pashov Audit Group](https://www.pashov.net/)      |  [link](https://github.com/santipu03/santipu03/blob/main/team-audits/Pashov_Ion_Report.pdf)               |
-| InterPol |  September 2024   | [Pashov Audit Group](https://www.pashov.net/)      |  _pending_               |
-| Aave |  September 2024   | [Pashov Audit Group](https://www.pashov.net/)      |  [link](https://github.com/pashov/audits/blob/master/team/pdf/Aave-security-review.pdf)             |
 
-
-<br><br>
+<br>
 
 ## 🐞 Bug Bounties
 
