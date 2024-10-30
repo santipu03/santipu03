@@ -31,14 +31,14 @@ Audit contests are the fastest way to improve my auditing skills because I compe
 
 |    Audit     |    Date      | Company      | Solo/Team |  Report  |
 |----------|--------------|---------------|----|-----|
-|    Poodl     |  March 2023  | Solidity Lab  | Team| [link](https://github.com/santipu03/santipu03/blob/main/team-audits/SolidityLab_Poodl.md)       |
-|    DIVA      |  April 2023  | Solidity Lab  | Team | [link](https://github.com/santipu03/santipu03/blob/main/team-audits/SolidityLab_Diva.md)        |
-|  [Defi.Money](https://defi.money/)  |  July 2024   | [Bailsec](https://bailsec.io/)      |Team |  [link](https://github.com/santipu03/santipu03/blob/main/team-audits/Bailsec_defiMoney_Report.pdf)                  |
-| [Ion Protocol](https://ionprotocol.io/) |  July 2024   | [Pashov Audit Group](https://www.pashov.net/)      | Team | [link](https://github.com/santipu03/santipu03/blob/main/team-audits/Pashov_Ion_Report.pdf)               |
+|    Poodl     |  March 2023  | Solidity Lab  | Team| [link](https://github.com/santipu03/santipu03/blob/main/private-audits/SolidityLab_Poodl.md)       |
+|    DIVA      |  April 2023  | Solidity Lab  | Team | [link](https://github.com/santipu03/santipu03/blob/main/private-audits/SolidityLab_Diva.md)        |
+|  [Defi.Money](https://defi.money/)  |  July 2024   | [Bailsec](https://bailsec.io/)      |Team |  [link](https://github.com/santipu03/santipu03/blob/main/private-audits/Bailsec_defiMoney_Report.pdf)                  |
+| [Ion Protocol](https://ionprotocol.io/) |  July 2024   | [Pashov Audit Group](https://www.pashov.net/)      | Team | [link](https://github.com/santipu03/santipu03/blob/main/private-audits/Pashov_Ion_Report.pdf)               |
 | [InterPol](https://app.notinterpol.com/) |  September 2024   | [Pashov Audit Group](https://www.pashov.net/)      | Team | _pending_               |
 | [Aave](https://aave.com/) |  September 2024   | [Pashov Audit Group](https://www.pashov.net/)      | Team | [link](https://github.com/pashov/audits/blob/master/team/pdf/Aave-security-review.pdf)             |
 | [Stader Labs](https://www.staderlabs.com/) |  October 2024   | [Bailsec](https://bailsec.io/)      | Team |  _pending_             |
-| [dHEDGE](https://dhedge.org/) |  October 2024   | N/A      | Solo |  [link](https://github.com/santipu03/santipu03/blob/main/solo-audits/dHEDGE_SAW.md)             |
+| [dHEDGE](https://dhedge.org/) |  October 2024   | N/A      | Solo |  [link](https://github.com/santipu03/santipu03/blob/main/private-audits/dHEDGE_SAW.md)             |
 | [LFJ](https://lfj.gg/avalanche) (prev. Trader Joe) |  October 2024   | [Bailsec](https://bailsec.io/)      | Team |  _pending_             |
 
 
