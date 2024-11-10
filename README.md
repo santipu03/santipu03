@@ -34,7 +34,7 @@ Audit contests are the fastest way to improve my auditing skills because I compe
 |    DIVA      |  April 2023  | Solidity Lab  | Team | [link](https://github.com/santipu03/santipu03/blob/main/private-audits/SolidityLab_Diva.md)        |
 |  [Defi.Money](https://defi.money/)  |  July 2024   | [Bailsec](https://bailsec.io/)      |Team |  [link](https://github.com/santipu03/santipu03/blob/main/private-audits/Bailsec_defiMoney_Report.pdf)                  |
 | [Ion Protocol](https://ionprotocol.io/) |  July 2024   | [Pashov Audit Group](https://www.pashov.net/)      | Team | [link](https://github.com/santipu03/santipu03/blob/main/private-audits/Pashov_Ion_Report.pdf)               |
-| [InterPol](https://app.notinterpol.com/) |  September 2024   | [Pashov Audit Group](https://www.pashov.net/)      | Team | _pending_               |
+| [InterPol](https://app.notinterpol.com/) |  September 2024   | [Pashov Audit Group](https://www.pashov.net/)      | Team | [link](https://github.com/santipu03/santipu03/blob/main/private-audits/Pashov_Interpol_Report.pdf)               |
 | [Aave](https://aave.com/) |  September 2024   | [Pashov Audit Group](https://www.pashov.net/)      | Team | [link](https://github.com/santipu03/santipu03/blob/main/private-audits/Pashov_Aave_Report.pdf)             |
 | [Stader Labs](https://www.staderlabs.com/) |  October 2024   | [Bailsec](https://bailsec.io/)      | Team |  _pending_             |
 | [dHEDGE](https://dhedge.org/) |  October 2024   | N/A      | Solo |  [link](https://github.com/santipu03/santipu03/blob/main/private-audits/dHEDGE_SAW.md)             |
