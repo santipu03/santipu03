@@ -36,7 +36,7 @@ Audit contests are the fastest way to improve my auditing skills because I compe
 | [Ion Protocol](https://ionprotocol.io/) |  July 2024   | [Pashov Audit Group](https://www.pashov.net/)      | Team | [link](https://github.com/santipu03/santipu03/blob/main/private-audits/Pashov_Ion_Report.pdf)               |
 | [InterPol](https://app.notinterpol.com/) |  September 2024   | [Pashov Audit Group](https://www.pashov.net/)      | Team | [link](https://github.com/santipu03/santipu03/blob/main/private-audits/Pashov_Interpol_Report.pdf)               |
 | [Aave](https://aave.com/) |  September 2024   | [Pashov Audit Group](https://www.pashov.net/)      | Team | [link](https://github.com/santipu03/santipu03/blob/main/private-audits/Pashov_Aave_Report.pdf)             |
-| [Stader Labs](https://www.staderlabs.com/) |  October 2024   | [Bailsec](https://bailsec.io/)      | Team |  _pending_             |
+| [Stader Labs](https://www.staderlabs.com/) |  October 2024   | [Bailsec](https://bailsec.io/)      | Team |  [link](https://github.com/santipu03/santipu03/blob/main/private-audits/Bailsec_Stader_Report.pdf)             |
 | [dHEDGE](https://dhedge.org/) |  October 2024   | N/A      | Solo |  [link](https://github.com/santipu03/santipu03/blob/main/private-audits/dHEDGE_SAW.md)             |
 | [LFJ](https://lfj.gg/avalanche) (prev. Trader Joe) |  October 2024   | [Bailsec](https://bailsec.io/)      | Team |  [link](https://github.com/santipu03/santipu03/blob/main/private-audits/Bailsec_LFJ_Report.pdf)             |
 
