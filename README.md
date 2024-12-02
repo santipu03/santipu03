@@ -24,6 +24,8 @@ Audit contests are the fastest way to improve my auditing skills because I compe
 |  [dHEDGE](https://audits.sherlock.xyz/contests/288)            | 🥇 1st     | June 2024  | Sherlock       |  _private_   |
 |  [MagicSea](https://audits.sherlock.xyz/contests/437)            | 🥇 1st     | July 2024  | Sherlock       |  [link](https://github.com/sherlock-audit/2024-06-magicsea-judging/issues)       |
 
+_<sup>*The above list may not include competitions where I've participated only partially.</sup>_
+
 <br>
 
 ## 🥊 Private Audits
