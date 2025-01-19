@@ -10,21 +10,24 @@ Feel free to reach out to me on X (formerly Twitter) at [@santipu_](https://x.co
 
 Audit contests are the fastest way to improve my auditing skills because I compete against hundreds of security researchers worldwide. This allows me to learn from the best ones and earn some experience, at the same time that I get rewarded. 🫡
 
-| Contest                | Ranking | Date Start         | Platform       | Report  |
-|------------------------|---------|---------------|----------------|---------|
-|  [Venus Prime](https://code4rena.com/audits/2023-09-venus-prime)           | 8th     | October 2023  | Code4rena      |  [link](https://code4rena.com/reports/2023-09-venus)       |
-|  [Ajna](https://audits.sherlock.xyz/contests/114)                  | 🥉 3rd     | October 2023  | Sherlock       |  [link](https://github.com/sherlock-audit/2023-09-ajna-judging/issues)        |
-|  [Ethereum Credit Guild](https://code4rena.com/audits/2023-12-ethereum-credit-guild) | 4th     | December 2023 | Code4rena      |  [link](https://code4rena.com/reports/2023-12-ethereumcreditguild)              |
-|  [Curves](https://code4rena.com/audits/2024-01-curves#top)                | 5th     | January 2024  | Code4rena      |  [link](https://code4rena.com/reports/2024-01-curves)                  |
-|  [Flat Money](https://audits.sherlock.xyz/contests/132)            | 🥈 2nd     | January 2024  | Sherlock       |  [link](https://github.com/sherlock-audit/2023-12-flatmoney-judging/issues)               |
-|  [Smilee Finance](https://audits.sherlock.xyz/contests/180)            | 🥉 3rd     | February 2024  | Sherlock       |  [link](https://github.com/sherlock-audit/2024-02-smilee-finance-judging/issues)              |
-|  [Perpetual](https://audits.sherlock.xyz/contests/219)            | 7th     | March 2024  | Sherlock       |  [link](https://github.com/sherlock-audit/2024-02-perpetual-judging/issues)              |
-|  [Flat Money Fix Review](https://audits.sherlock.xyz/contests/287)            | 🥈 2nd     | April 2024  | Sherlock       |  [link](https://github.com/sherlock-audit/2024-03-flat-money-fix-review-contest-judging/issues)              |
-|  [Exactly](https://audits.sherlock.xyz/contests/247)            | 🥈 2nd      | April 2024  | Sherlock       |  [link](https://github.com/sherlock-audit/2024-04-interest-rate-model-judging/issues)              |
-|  [dHEDGE](https://audits.sherlock.xyz/contests/288)            | 🥇 1st     | June 2024  | Sherlock       |  _private_   |
-|  [MagicSea](https://audits.sherlock.xyz/contests/437)            | 🥇 1st     | July 2024  | Sherlock       |  [link](https://github.com/sherlock-audit/2024-06-magicsea-judging/issues)       |
-
-_<sup>*The above list may not include competitions where I've participated only partially.</sup>_
+| Contest                | Ranking | Category  | Solo/Team       | Platform       | Report  |
+|------------------------|---------|---------------|--------|--------|---------|
+|  [dHEDGE](https://audits.sherlock.xyz/contests/288)            | 🥇 1st     | Vaults  |Solo| Sherlock       |  _private_   |
+|  [MagicSea](https://audits.sherlock.xyz/contests/437)            | 🥇 1st     | Rewards |Solo | Sherlock       |  [link](https://github.com/sherlock-audit/2024-06-magicsea-judging/issues)       |
+|  [Exactly](https://audits.sherlock.xyz/contests/247)            | 🥈 2nd      | Lending  |Solo| Sherlock       |  [link](https://github.com/sherlock-audit/2024-04-interest-rate-model-judging/issues)              |
+|  [Flat Money](https://audits.sherlock.xyz/contests/132)            | 🥈 2nd     | Stablecoin |Solo | Sherlock       |  [link](https://github.com/sherlock-audit/2023-12-flatmoney-judging/issues)               |
+|  [Flat Money Fix Review](https://audits.sherlock.xyz/contests/287)            | 🥈 2nd   | Stablecoin  |Solo  | Sherlock       |  [link](https://github.com/sherlock-audit/2024-03-flat-money-fix-review-contest-judging/issues)              |
+|  [Debita Finance](https://audits.sherlock.xyz/contests/627)                  | 🥉 3rd   | Marketplace|Team (KaplanLabs)   | Sherlock       |  [link](https://audits.sherlock.xyz/contests/627/report)        |
+|  [Ajna](https://audits.sherlock.xyz/contests/114)                  | 🥉 3rd     | Lending  |Solo | Sherlock       |  [link](https://github.com/sherlock-audit/2023-09-ajna-judging/issues)        |
+|  [Smilee Finance](https://audits.sherlock.xyz/contests/180)            | 🥉 3rd     | Options|Solo   | Sherlock       |  [link](https://github.com/sherlock-audit/2024-02-smilee-finance-judging/issues)              |
+|  [Exactly Update](https://audits.sherlock.xyz/contests/396)            | 🥉 3rd     | Lending |Solo  | Sherlock       |  [link](https://github.com/sherlock-audit/2024-07-exactly-stacking-contracts-judging/issues)              |
+|  [Ethereum Credit Guild](https://code4rena.com/audits/2023-12-ethereum-credit-guild) | 4th     | Lending|Solo  | Code4rena      |  [link](https://code4rena.com/reports/2023-12-ethereumcreditguild)              |
+|  [StakeUp](https://cantina.xyz/competitions/61087007-c7e9-4c4e-9d90-4e118933fecf) | 4th     | Stablecoin |Team (KaplanLabs)| Cantina      |  [link](https://cantina.xyz/competitions/61087007-c7e9-4c4e-9d90-4e118933fecf)              |
+|  [Curves](https://code4rena.com/audits/2024-01-curves#top)                | 5th     | SocialFi|Solo   | Code4rena      |  [link](https://code4rena.com/reports/2024-01-curves)                  |
+|  [Perpetual](https://audits.sherlock.xyz/contests/219)            | 7th     | Perpetuals |Solo  | Sherlock       |  [link](https://github.com/sherlock-audit/2024-02-perpetual-judging/issues)              |
+|  [Venus Prime](https://code4rena.com/audits/2023-09-venus-prime)           | 8th     | Lending|Solo   | Code4rena      |  [link](https://code4rena.com/reports/2023-09-venus)       |
+|  [Royco](https://cantina.xyz/competitions/fadb5a8f-e39c-4a6b-89f6-a03858bb8602)           | 9th     | Marketplace |Team (KaplanLabs) | Cantina      |  [link](https://cantina.xyz/competitions/fadb5a8f-e39c-4a6b-89f6-a03858bb8602)       |
+|  [Munchables](https://code4rena.com/audits/2024-07-munchables)           | 12th     | GameFi |Solo  | Code4rena      |  [link](https://code4rena.com/reports/2024-07-munchables)       |
 
 <br>
 
