@@ -44,7 +44,7 @@ Audit contests are the fastest way to improve my auditing skills because I compe
 | [Stader Labs](https://www.staderlabs.com/) |  October 2024   | [Bailsec](https://bailsec.io/)      | Team |  [link](https://github.com/santipu03/santipu03/blob/main/private-audits/Bailsec_Stader_Report.pdf)             |
 | [dHEDGE](https://dhedge.org/) |  October 2024   | N/A      | Solo |  [link](https://github.com/santipu03/santipu03/blob/main/private-audits/dHEDGE_SAW.md)             |
 | [LFJ](https://lfj.gg/avalanche) (prev. Trader Joe) |  October 2024   | [Bailsec](https://bailsec.io/)      | Team |  [link](https://github.com/santipu03/santipu03/blob/main/private-audits/Bailsec_LFJ_Report.pdf)             |
-| [Beraborrow](https://www.beraborrow.com/) |  November 2024   | [Sherlock](https://www.sherlock.xyz/)      | Team |  _pending_             |
+| [Beraborrow](https://www.beraborrow.com/) |  November 2024   | [Sherlock](https://www.sherlock.xyz/)      | Team |  [link](https://github.com/santipu03/santipu03/blob/main/private-audits/Beraborrow_Report.pdf)             |
 
 
 <br>
