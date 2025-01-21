@@ -35,16 +35,18 @@ Audit contests are the fastest way to improve my auditing skills because I compe
 
 |    Audit     |    Date      | Company      | Solo/Team |  Report  |
 |----------|--------------|---------------|----|-----|
-|    Poodl     |  March 2023  | Solidity Lab  | Team| [link](https://github.com/santipu03/santipu03/blob/main/private-audits/SolidityLab_Poodl.md)       |
-|    DIVA      |  April 2023  | Solidity Lab  | Team | [link](https://github.com/santipu03/santipu03/blob/main/private-audits/SolidityLab_Diva.md)        |
-|  [Defi.Money](https://defi.money/)  |  July 2024   | [Bailsec](https://bailsec.io/)      |Team |  [link](https://github.com/santipu03/santipu03/blob/main/private-audits/Bailsec_defiMoney_Report.pdf)                  |
-| [Ion Protocol](https://ionprotocol.io/) |  July 2024   | [Pashov Audit Group](https://www.pashov.net/)      | Team | [link](https://github.com/santipu03/santipu03/blob/main/private-audits/Pashov_Ion_Report.pdf)               |
-| [InterPol](https://app.notinterpol.com/) |  September 2024   | [Pashov Audit Group](https://www.pashov.net/)      | Team | [link](https://github.com/santipu03/santipu03/blob/main/private-audits/Pashov_Interpol_Report.pdf)               |
-| [Aave](https://aave.com/) |  September 2024   | [Pashov Audit Group](https://www.pashov.net/)      | Team | [link](https://github.com/santipu03/santipu03/blob/main/private-audits/Pashov_Aave_Report.pdf)             |
-| [Stader Labs](https://www.staderlabs.com/) |  October 2024   | [Bailsec](https://bailsec.io/)      | Team |  [link](https://github.com/santipu03/santipu03/blob/main/private-audits/Bailsec_Stader_Report.pdf)             |
-| [dHEDGE](https://dhedge.org/) |  October 2024   | N/A      | Solo |  [link](https://github.com/santipu03/santipu03/blob/main/private-audits/dHEDGE_SAW.md)             |
-| [LFJ](https://lfj.gg/avalanche) (prev. Trader Joe) |  October 2024   | [Bailsec](https://bailsec.io/)      | Team |  [link](https://github.com/santipu03/santipu03/blob/main/private-audits/Bailsec_LFJ_Report.pdf)             |
+| [dHEDGE Update #2](https://dhedge.org/) |  January 2025   | N/A      | Solo |  _pending_            |
+| [dHEDGE Update](https://dhedge.org/) |  January 2025   | N/A      | Solo |  _pending_            |
 | [Beraborrow](https://www.beraborrow.com/) |  November 2024   | [Sherlock](https://www.sherlock.xyz/)      | Team |  [link](https://github.com/santipu03/santipu03/blob/main/private-audits/Beraborrow_Report.pdf)             |
+| [LFJ](https://lfj.gg/avalanche) (prev. Trader Joe) |  October 2024   | [Bailsec](https://bailsec.io/)      | Team |  [link](https://github.com/santipu03/santipu03/blob/main/private-audits/Bailsec_LFJ_Report.pdf)             |
+| [dHEDGE](https://dhedge.org/) |  October 2024   | N/A      | Solo |  [link](https://github.com/santipu03/santipu03/blob/main/private-audits/dHEDGE_SAW.md)             |
+| [Stader Labs](https://www.staderlabs.com/) |  October 2024   | [Bailsec](https://bailsec.io/)      | Team |  [link](https://github.com/santipu03/santipu03/blob/main/private-audits/Bailsec_Stader_Report.pdf)             |
+| [Aave](https://aave.com/) |  September 2024   | [Pashov Audit Group](https://www.pashov.net/)      | Team | [link](https://github.com/santipu03/santipu03/blob/main/private-audits/Pashov_Aave_Report.pdf)             |
+| [InterPol](https://app.notinterpol.com/) |  September 2024   | [Pashov Audit Group](https://www.pashov.net/)      | Team | [link](https://github.com/santipu03/santipu03/blob/main/private-audits/Pashov_Interpol_Report.pdf)               |
+| [Ion Protocol](https://ionprotocol.io/) |  July 2024   | [Pashov Audit Group](https://www.pashov.net/)      | Team | [link](https://github.com/santipu03/santipu03/blob/main/private-audits/Pashov_Ion_Report.pdf)               |
+|  [Defi.Money](https://defi.money/)  |  July 2024   | [Bailsec](https://bailsec.io/)      |Team |  [link](https://github.com/santipu03/santipu03/blob/main/private-audits/Bailsec_defiMoney_Report.pdf)                  |
+|    DIVA      |  April 2023  | Solidity Lab  | Team | [link](https://github.com/santipu03/santipu03/blob/main/private-audits/SolidityLab_Diva.md)        |
+|    Poodl     |  March 2023  | Solidity Lab  | Team| [link](https://github.com/santipu03/santipu03/blob/main/private-audits/SolidityLab_Poodl.md)       |
 
 
 <br>
