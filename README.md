@@ -14,9 +14,11 @@ Audit contests are the fastest way to improve my auditing skills because I compe
 |------------------------|---------|---------------|--------|--------|---------|
 |  [dHEDGE](https://audits.sherlock.xyz/contests/288)            | 🥇 1st     | Vaults  |Solo| Sherlock       |  _private_   |
 |  [MagicSea](https://audits.sherlock.xyz/contests/437)            | 🥇 1st     | Rewards |Solo | Sherlock       |  [link](https://github.com/sherlock-audit/2024-06-magicsea-judging/issues)       |
+|  [Flat Money V2](https://audits.sherlock.xyz/contests/620)            | 🥈 2nd     | Stablecoin / Perps |Solo | Sherlock       |  _private_              |
 |  [Exactly](https://audits.sherlock.xyz/contests/247)            | 🥈 2nd      | Lending  |Solo| Sherlock       |  [link](https://github.com/sherlock-audit/2024-04-interest-rate-model-judging/issues)              |
-|  [Flat Money](https://audits.sherlock.xyz/contests/132)            | 🥈 2nd     | Stablecoin |Solo | Sherlock       |  [link](https://github.com/sherlock-audit/2023-12-flatmoney-judging/issues)               |
-|  [Flat Money Fix Review](https://audits.sherlock.xyz/contests/287)            | 🥈 2nd   | Stablecoin  |Solo  | Sherlock       |  [link](https://github.com/sherlock-audit/2024-03-flat-money-fix-review-contest-judging/issues)              |
+|  [Flat Money](https://audits.sherlock.xyz/contests/132)            | 🥈 2nd     | Stablecoin / Perps |Solo | Sherlock       |  [link](https://github.com/sherlock-audit/2023-12-flatmoney-judging/issues)               |
+|  [Flat Money Fix Review](https://audits.sherlock.xyz/contests/287)            | 🥈 2nd   | Stablecoin / Perps  |Solo  | Sherlock       |  [link](https://github.com/sherlock-audit/2024-03-flat-money-fix-review-contest-judging/issues)              |
+|  [Bima Money](https://cantina.xyz/competitions/44d68da7-3cf4-4cec-a3f8-f0917062dac6)                  | 🥉 3rd   |  Stablecoin (Liquity Fork) | Solo       | Cantina      |_pending_   |
 |  [Debita Finance](https://audits.sherlock.xyz/contests/627)                  | 🥉 3rd   | Marketplace|Team (KaplanLabs)   | Sherlock       |  [link](https://audits.sherlock.xyz/contests/627/report)        |
 |  [Ajna](https://audits.sherlock.xyz/contests/114)                  | 🥉 3rd     | Lending  |Solo | Sherlock       |  [link](https://github.com/sherlock-audit/2023-09-ajna-judging/issues)        |
 |  [Smilee Finance](https://audits.sherlock.xyz/contests/180)            | 🥉 3rd     | Options|Solo   | Sherlock       |  [link](https://github.com/sherlock-audit/2024-02-smilee-finance-judging/issues)              |
@@ -33,20 +35,20 @@ Audit contests are the fastest way to improve my auditing skills because I compe
 
 ## 🥊 Private Audits
 
-|    Audit     |    Date      | Company      | Solo/Team |  Report  |
-|----------|--------------|---------------|----|-----|
-| [dHEDGE Update #2](https://dhedge.org/) |  January 2025   | N/A      | Solo |  _pending_            |
-| [dHEDGE Update](https://dhedge.org/) |  January 2025   | N/A      | Solo |  _pending_            |
-| [Beraborrow](https://www.beraborrow.com/) |  November 2024   | [Sherlock](https://www.sherlock.xyz/)      | Team |  [link](https://github.com/santipu03/santipu03/blob/main/private-audits/Beraborrow_Report.pdf)             |
-| [LFJ](https://lfj.gg/avalanche) (prev. Trader Joe) |  October 2024   | [Bailsec](https://bailsec.io/)      | Team |  [link](https://github.com/santipu03/santipu03/blob/main/private-audits/Bailsec_LFJ_Report.pdf)             |
-| [dHEDGE](https://dhedge.org/) |  October 2024   | N/A      | Solo |  [link](https://github.com/santipu03/santipu03/blob/main/private-audits/dHEDGE_SAW.md)             |
-| [Stader Labs](https://www.staderlabs.com/) |  October 2024   | [Bailsec](https://bailsec.io/)      | Team |  [link](https://github.com/santipu03/santipu03/blob/main/private-audits/Bailsec_Stader_Report.pdf)             |
-| [Aave](https://aave.com/) |  September 2024   | [Pashov Audit Group](https://www.pashov.net/)      | Team | [link](https://github.com/santipu03/santipu03/blob/main/private-audits/Pashov_Aave_Report.pdf)             |
-| [InterPol](https://app.notinterpol.com/) |  September 2024   | [Pashov Audit Group](https://www.pashov.net/)      | Team | [link](https://github.com/santipu03/santipu03/blob/main/private-audits/Pashov_Interpol_Report.pdf)               |
-| [Ion Protocol](https://ionprotocol.io/) |  July 2024   | [Pashov Audit Group](https://www.pashov.net/)      | Team | [link](https://github.com/santipu03/santipu03/blob/main/private-audits/Pashov_Ion_Report.pdf)               |
-|  [Defi.Money](https://defi.money/)  |  July 2024   | [Bailsec](https://bailsec.io/)      |Team |  [link](https://github.com/santipu03/santipu03/blob/main/private-audits/Bailsec_defiMoney_Report.pdf)                  |
-|    DIVA      |  April 2023  | Solidity Lab  | Team | [link](https://github.com/santipu03/santipu03/blob/main/private-audits/SolidityLab_Diva.md)        |
-|    Poodl     |  March 2023  | Solidity Lab  | Team| [link](https://github.com/santipu03/santipu03/blob/main/private-audits/SolidityLab_Poodl.md)       |
+|    Audit     |    Date    | Category  | Firm      | Solo/Team |  Report  |
+|----------|--------------|------|---------|----|-----|
+| [dHEDGE Update #2](https://dhedge.org/) |  January 2025  | Vaults | N/A      | Solo |  _pending_            |
+| [dHEDGE Update](https://dhedge.org/) |  January 2025  | Vaults | N/A      | Solo |  _pending_            |
+| [Beraborrow](https://www.beraborrow.com/) |  November 2024  | Stablecoin (Liquity Fork) | [Sherlock](https://www.sherlock.xyz/)      | Team |  [link](https://github.com/santipu03/santipu03/blob/main/private-audits/Beraborrow_Report.pdf)             |
+| [LFJ](https://lfj.gg/avalanche) (prev. Trader Joe) |  October 2024  | Router | [Bailsec](https://bailsec.io/)      | Team |  [link](https://github.com/santipu03/santipu03/blob/main/private-audits/Bailsec_LFJ_Report.pdf)             |
+| [dHEDGE](https://dhedge.org/) |  October 2024  | Vaults | N/A      | Solo |  [link](https://github.com/santipu03/santipu03/blob/main/private-audits/dHEDGE_SAW.md)             |
+| [Stader Labs](https://www.staderlabs.com/) |  October 2024  | Liquid Staking | [Bailsec](https://bailsec.io/)      | Team |  [link](https://github.com/santipu03/santipu03/blob/main/private-audits/Bailsec_Stader_Report.pdf)             |
+| [Aave](https://aave.com/) |  September 2024  | Lending | [Pashov Audit Group](https://www.pashov.net/)      | Team | [link](https://github.com/santipu03/santipu03/blob/main/private-audits/Pashov_Aave_Report.pdf)             |
+| [InterPol](https://app.notinterpol.com/) |  September 2024 | Locker | [Pashov Audit Group](https://www.pashov.net/)      | Team | [link](https://github.com/santipu03/santipu03/blob/main/private-audits/Pashov_Interpol_Report.pdf)               |
+| [Ion Protocol](https://ionprotocol.io/) |  July 2024 | CrossChain  | [Pashov Audit Group](https://www.pashov.net/)      | Team | [link](https://github.com/santipu03/santipu03/blob/main/private-audits/Pashov_Ion_Report.pdf)               |
+|  [Defi.Money](https://defi.money/)  |  July 2024  | Lending | [Bailsec](https://bailsec.io/)      |Team |  [link](https://github.com/santipu03/santipu03/blob/main/private-audits/Bailsec_defiMoney_Report.pdf)                  |
+|    DIVA      |  April 2023 | Derivatives | Solidity Lab  | Team | [link](https://github.com/santipu03/santipu03/blob/main/private-audits/SolidityLab_Diva.md)        |
+|    Poodl     |  March 2023 |  Pools | Solidity Lab  | Team| [link](https://github.com/santipu03/santipu03/blob/main/private-audits/SolidityLab_Poodl.md)       |
 
 
 <br>
