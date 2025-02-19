@@ -37,11 +37,11 @@ Audit contests are the fastest way to improve my auditing skills because I compe
 
 |    Audit     |    Date    | Category  | Firm      | Solo/Team |  Report  |
 |----------|--------------|------|---------|----|-----|
-| [dHEDGE Update #2](https://dhedge.org/) |  January 2025  | Vaults | N/A      | Solo |  _pending_            |
-| [dHEDGE Update](https://dhedge.org/) |  January 2025  | Vaults | N/A      | Solo |  _pending_            |
+| [dHEDGE](https://dhedge.org/)(Integration GMX) |  January 2025  | Vaults | N/A      | Solo |  _pending_            |
+| [dHEDGE](https://dhedge.org/)(Integration Aave) |  January 2025  | Vaults | N/A      | Solo |   [link](https://github.com/santipu03/santipu03/blob/main/private-audits/dHEDGE_Aave.md)            |
 | [Beraborrow](https://www.beraborrow.com/) |  November 2024  | Stablecoin (Liquity Fork) | [Sherlock](https://www.sherlock.xyz/)      | Team |  [link](https://github.com/santipu03/santipu03/blob/main/private-audits/Beraborrow_Report.pdf)             |
 | [LFJ](https://lfj.gg/avalanche) (prev. Trader Joe) |  October 2024  | Router | [Bailsec](https://bailsec.io/)      | Team |  [link](https://github.com/santipu03/santipu03/blob/main/private-audits/Bailsec_LFJ_Report.pdf)             |
-| [dHEDGE](https://dhedge.org/) |  October 2024  | Vaults | N/A      | Solo |  [link](https://github.com/santipu03/santipu03/blob/main/private-audits/dHEDGE_SAW.md)             |
+| [dHEDGE](https://dhedge.org/)(Single-Asset Withdrawal) |  October 2024  | Vaults | N/A      | Solo |  [link](https://github.com/santipu03/santipu03/blob/main/private-audits/dHEDGE_SAW.md)             |
 | [Stader Labs](https://www.staderlabs.com/) |  October 2024  | Liquid Staking | [Bailsec](https://bailsec.io/)      | Team |  [link](https://github.com/santipu03/santipu03/blob/main/private-audits/Bailsec_Stader_Report.pdf)             |
 | [Aave](https://aave.com/) |  September 2024  | Lending | [Pashov Audit Group](https://www.pashov.net/)      | Team | [link](https://github.com/santipu03/santipu03/blob/main/private-audits/Pashov_Aave_Report.pdf)             |
 | [InterPol](https://app.notinterpol.com/) |  September 2024 | Locker | [Pashov Audit Group](https://www.pashov.net/)      | Team | [link](https://github.com/santipu03/santipu03/blob/main/private-audits/Pashov_Interpol_Report.pdf)               |
