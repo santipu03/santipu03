@@ -35,7 +35,7 @@ Audit contests are the fastest way to improve my auditing skills because I compe
 
 ## 🥊 Private Audits
 
-|    Audit     |    Date    | Category  | Firm      | Solo/Team |  Report  |
+|    Audit     |    Date    | Category  | Provider      | Solo/Team |  Report  |
 |----------|--------------|------|---------|----|-----|
 | [dHEDGE](https://dhedge.org/) (Integration GMX) |  January 2025  | Vaults | N/A      | Solo |  _pending_            |
 | [dHEDGE](https://dhedge.org/) (Integration Aave) |  January 2025  | Vaults | N/A      | Solo |   [link](https://github.com/santipu03/santipu03/blob/main/private-audits/dHEDGE_Aave.md)            |
