@@ -18,7 +18,7 @@ Audit contests are the fastest way to improve my auditing skills because I compe
 |  [Exactly](https://audits.sherlock.xyz/contests/247)            | 🥈 2nd      | Lending  |Solo| Sherlock       |  [link](https://github.com/sherlock-audit/2024-04-interest-rate-model-judging/issues)              |
 |  [Flat Money](https://audits.sherlock.xyz/contests/132)            | 🥈 2nd     | Stablecoin / Perps |Solo | Sherlock       |  [link](https://github.com/sherlock-audit/2023-12-flatmoney-judging/issues)               |
 |  [Flat Money Fix Review](https://audits.sherlock.xyz/contests/287)            | 🥈 2nd   | Stablecoin / Perps  |Solo  | Sherlock       |  [link](https://github.com/sherlock-audit/2024-03-flat-money-fix-review-contest-judging/issues)              |
-|  [Bima Money](https://cantina.xyz/competitions/44d68da7-3cf4-4cec-a3f8-f0917062dac6)                  | 🥉 3rd   |  Stablecoin (Liquity Fork) | Solo       | Cantina      |_pending_   |
+|  [Bima Money](https://cantina.xyz/competitions/44d68da7-3cf4-4cec-a3f8-f0917062dac6)                  | 🥉 3rd   |  Stablecoin (Liquity Fork) | Solo       | Cantina      |[link](https://cantina.xyz/competitions/44d68da7-3cf4-4cec-a3f8-f0917062dac6)   |
 |  [Debita Finance](https://audits.sherlock.xyz/contests/627)                  | 🥉 3rd   | Marketplace|Team (KaplanLabs)   | Sherlock       |  [link](https://audits.sherlock.xyz/contests/627/report)        |
 |  [Ajna](https://audits.sherlock.xyz/contests/114)                  | 🥉 3rd     | Lending  |Solo | Sherlock       |  [link](https://github.com/sherlock-audit/2023-09-ajna-judging/issues)        |
 |  [Smilee Finance](https://audits.sherlock.xyz/contests/180)            | 🥉 3rd     | Options|Solo   | Sherlock       |  [link](https://github.com/sherlock-audit/2024-02-smilee-finance-judging/issues)              |
@@ -59,6 +59,7 @@ Occasionally, I like to dedicate some time to catching bugs in the wild.
 
 | Protocol               | Date          | Severity    | Reward (USD)   | Report  |
 |------------------------|---------------|--------------|--|---------|
+|  [Lido on Polygon](https://polygon.lido.fi/)    | March 2025  | Medium  | 5k| _private_         |
 |  [Enzyme Finance](https://enzyme.finance/)    | February 2025  | Low  | 2k| _private_         |
 |  [Umami Finance](https://defillama.com/protocol/umami-finance)    | January 2024  | Medium  | 3.5k| _private_         |
 |  [Umami Finance](https://defillama.com/protocol/umami-finance)    | January 2024  | High  | 3.5k| _private_         |
