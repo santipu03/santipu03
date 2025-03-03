@@ -37,6 +37,7 @@ Audit contests are the fastest way to improve my auditing skills because I compe
 
 |    Audit     |    Date    | Category  | Provider      | Solo/Team |  Report  |
 |----------|--------------|------|---------|----|-----|
+| [Beraborrow](https://www.beraborrow.com/) |  February 2025  | Stablecoin (Liquity Fork) | N/A      | Solo |  _pending_            |
 | [dHEDGE](https://dhedge.org/) (Integration GMX) |  January 2025  | Vaults | N/A      | Solo |  _pending_            |
 | [dHEDGE](https://dhedge.org/) (Integration Aave) |  January 2025  | Vaults | N/A      | Solo |   [link](https://github.com/santipu03/santipu03/blob/main/private-audits/dHEDGE_Aave.md)            |
 | [Beraborrow](https://www.beraborrow.com/) |  November 2024  | Stablecoin (Liquity Fork) | [Sherlock](https://www.sherlock.xyz/)      | Team |  [link](https://github.com/santipu03/santipu03/blob/main/private-audits/Beraborrow_Report.pdf)             |
