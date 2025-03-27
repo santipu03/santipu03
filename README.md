@@ -37,6 +37,7 @@ Audit contests are the fastest way to improve my auditing skills because I compe
 
 |    Audit     |    Date    | Category  | Provider      | Solo/Team |  Report  |
 |----------|--------------|------|---------|----|-----|
+| [Moolah](https://github.com/santipu03) |  March 2025  | Lending (Morpho Fork) | [Bailsec](https://bailsec.io/)      | Team |  _pending_             |
 | [Beraborrow](https://www.beraborrow.com/) (Oracle-less Vault) |  February 2025  | Stablecoin (Liquity Fork) | N/A      | Solo |  [link](https://github.com/santipu03/santipu03/blob/main/private-audits/Beraborrow_Oracleless.md)            |
 | [dHEDGE](https://dhedge.org/) (Integration GMX) |  January 2025  | Vaults | N/A      | Solo |  _pending_            |
 | [dHEDGE](https://dhedge.org/) (Integration Aave) |  January 2025  | Vaults | N/A      | Solo |   [link](https://github.com/santipu03/santipu03/blob/main/private-audits/dHEDGE_Aave.md)            |
