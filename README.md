@@ -37,7 +37,7 @@ Feel free to reach out to me on X (formerly Twitter) at [@santipu_](https://x.co
 |----------|--------------|------|---------|----|-----|
 | [Moolah](https://github.com/santipu03) |  March 2025  | Lending (Morpho Fork) | [Bailsec](https://bailsec.io/)      | Team |  _pending_             |
 | [Beraborrow](https://www.beraborrow.com/) (Oracle-less Vault) |  February 2025  | Stablecoin (Liquity Fork) | N/A      | Solo |  [link](https://github.com/santipu03/santipu03/blob/main/private-audits/Beraborrow_Oracleless.md)            |
-| [dHEDGE](https://dhedge.org/) (Integration GMX) |  January 2025  | Vaults | N/A      | Solo |  _pending_            |
+| [dHEDGE](https://dhedge.org/) (Integration GMX) |  January 2025  | Vaults | N/A      | Solo |  [link](https://github.com/santipu03/santipu03/blob/main/private-audits/dHEDGE_GMX.md)            |
 | [dHEDGE](https://dhedge.org/) (Integration Aave) |  January 2025  | Vaults | N/A      | Solo |   [link](https://github.com/santipu03/santipu03/blob/main/private-audits/dHEDGE_Aave.md)            |
 | [Beraborrow](https://www.beraborrow.com/) |  November 2024  | Stablecoin (Liquity Fork) | [Sherlock](https://www.sherlock.xyz/)      | Team |  [link](https://github.com/santipu03/santipu03/blob/main/private-audits/Beraborrow_Report.pdf)             |
 | [LFJ](https://lfj.gg/avalanche) (prev. Trader Joe) |  October 2024  | Router | [Bailsec](https://bailsec.io/)      | Team |  [link](https://github.com/santipu03/santipu03/blob/main/private-audits/Bailsec_LFJ_Report.pdf)             |
