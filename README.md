@@ -2,9 +2,9 @@
 
 Hello there! 🙌
 
-I’m Santipu, a **Blockchain Security Researcher** who mainly works on contest platforms such as [Sherlock](https://www.sherlock.xyz/), [Code4rena](https://code4rena.com/), and [Cantina](https://cantina.xyz/). I’ve had the chance to place on the podium multiple times in audit contests, including a few first-place finishes, and I’ve collaborated with leading audit firms like [Pashov Audit Group](https://www.pashov.net/) and [Bailsec](https://bailsec.io/).
+I’m Santipu, a **Blockchain Security Researcher** who mainly works on contest platforms such as [Sherlock](https://www.sherlock.xyz/), [Code4rena](https://code4rena.com/), and [Cantina](https://cantina.xyz/). I’ve had the chance to place on the podium multiple times in audit contests, including more than 10x top-3 finishes, and I’ve collaborated with leading audit firms like [Pashov Audit Group](https://www.pashov.net/) and [Bailsec](https://bailsec.io/).
 
-Feel free to reach out to me on X (formerly Twitter) at [@santipu_](https://x.com/santipu_).
+Request an audit directly at [@santipu_](https://x.com/santipu_).
 
 ## 🔎 Public Audits Contests
 
