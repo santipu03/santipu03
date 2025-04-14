@@ -10,6 +10,7 @@ Request an audit directly at [@santipu_](https://x.com/santipu_).
 
 | Contest                | Ranking | Category  | Solo/Team       | Platform       | Report  |
 |------------------------|---------|---------------|--------|--------|---------|
+|  [Beraborrow](https://cantina.xyz/competitions/d4835c42-fc76-4fea-8e2c-70449237fc0e)            | 🥇 1st     | Stablecoin (Liquity Fork)  |Solo| Cantina       |  _pending_   |
 |  [dHEDGE](https://audits.sherlock.xyz/contests/288)            | 🥇 1st     | Vaults  |Solo| Sherlock       |  _private_   |
 |  [MagicSea](https://audits.sherlock.xyz/contests/437)            | 🥇 1st     | Rewards |Solo | Sherlock       |  [link](https://github.com/sherlock-audit/2024-06-magicsea-judging/issues)       |
 |  [Flat Money V2](https://audits.sherlock.xyz/contests/620)            | 🥈 2nd     | Stablecoin / Perps |Solo | Sherlock       |  _private_              |
