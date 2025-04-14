@@ -37,7 +37,7 @@ Request an audit directly at [@santipu_](https://x.com/santipu_).
 |    Audit     |    Date    | Category  | Provider      | Solo/Team |  Report  |
 |----------|--------------|------|---------|----|-----|
 | [Parallel](https://github.com/santipu03) |  April 2025  | PSM (Angle Fork) | [Bailsec](https://bailsec.io/)      | Team |  _pending_             |
-| [Moolah](https://github.com/santipu03) |  March 2025  | Lending (Morpho Fork) | [Bailsec](https://bailsec.io/)      | Team |  _pending_             |
+| [Lista DAO](https://lista.org/) |  March 2025  | Lending (Morpho Fork) | [Bailsec](https://bailsec.io/)      | Team |  [link](https://github.com/santipu03/santipu03/blob/main/private-audits/Bailsec_ListaLending_Report.pdf)             |
 | [Beraborrow](https://www.beraborrow.com/) (Oracle-less Vault) |  February 2025  | Stablecoin (Liquity Fork) | N/A      | Solo |  [link](https://github.com/santipu03/santipu03/blob/main/private-audits/Beraborrow_Oracleless.md)            |
 | [dHEDGE](https://dhedge.org/) (Integration GMX) |  January 2025  | Vaults | N/A      | Solo |  [link](https://github.com/santipu03/santipu03/blob/main/private-audits/dHEDGE_GMX.md)            |
 | [dHEDGE](https://dhedge.org/) (Integration Aave) |  January 2025  | Vaults | N/A      | Solo |   [link](https://github.com/santipu03/santipu03/blob/main/private-audits/dHEDGE_Aave.md)            |
