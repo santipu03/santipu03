@@ -36,13 +36,16 @@ Request an audit directly at [@santipu_](https://x.com/santipu_).
 
 |    Audit     |    Date    | Category  | Provider      | Solo/Team |  Report  |
 |----------|--------------|------|---------|----|-----|
+| [Lista DAO DEX](https://lista.org/) |  September 2025  | Curve StableSwap Fork | [Bailsec](https://bailsec.io/)      | Team |  _pending_             |
+| [VaultEdge](https://www.vaultedge.fi/) |  July 2025  | Stablecoin (Liquity Fork) | [Bailsec](https://bailsec.io/)      | Team |  _pending_             |
+| [LFJ](https://lfj.gg/avalanche) #2 (prev. Trader Joe) |  June 2025  | Router | [Bailsec](https://bailsec.io/)      | Team |  _pending_             |
 | [Inception LRT](https://www.inceptionlrt.com/) |  May 2025  | LST and LRT | [Bailsec](https://bailsec.io/)       | Team |  _pending_             |
-| [Beraborrow #3](https://www.beraborrow.com/) |  May 2025  | Stablecoin (Liquity Fork) | [Sherlock](https://www.sherlock.xyz/)      | Team |  _pending_             |
+| [Beraborrow](https://www.beraborrow.com/) #3 |  May 2025  | Stablecoin (Liquity Fork) | [Sherlock](https://www.sherlock.xyz/)      | Team |  _pending_             |
 | [GogoPool](https://github.com/santipu03/santipu03) |  May 2025  | Avalanche L1 | [Bailsec](https://bailsec.io/)      | Team |  _pending_             |
-| [Lista DAO #2](https://lista.org/) |  April 2025  | Lending (Morpho Fork) | [Bailsec](https://bailsec.io/)      | Team |  _pending_             |
+| [Lista DAO](https://lista.org/) #2 |  April 2025  | Lending (Morpho Fork) | [Bailsec](https://bailsec.io/)      | Team |  _pending_             |
 | [Parallel](https://app.parallel.best/) |  April 2025  | PSM (Angle Fork) | [Bailsec](https://bailsec.io/)      | Team |  _pending_             |
 | [Lista DAO](https://lista.org/) |  March 2025  | Lending (Morpho Fork) | [Bailsec](https://bailsec.io/)      | Team |  [link](https://github.com/santipu03/santipu03/blob/main/private-audits/Bailsec_ListaLending_Report.pdf)             |
-| [Beraborrow #2](https://www.beraborrow.com/) |  February 2025  | Stablecoin (Liquity Fork) | N/A      | Solo |  [link](https://github.com/santipu03/santipu03/blob/main/private-audits/Beraborrow_Oracleless.md)            |
+| [Beraborrow](https://www.beraborrow.com/) #2 |  February 2025  | Stablecoin (Liquity Fork) | N/A      | Solo |  [link](https://github.com/santipu03/santipu03/blob/main/private-audits/Beraborrow_Oracleless.md)            |
 | [dHEDGE](https://dhedge.org/) (Integration GMX) |  January 2025  | Vaults | N/A      | Solo |  [link](https://github.com/santipu03/santipu03/blob/main/private-audits/dHEDGE_GMX.md)            |
 | [dHEDGE](https://dhedge.org/) (Integration Aave) |  January 2025  | Vaults | N/A      | Solo |   [link](https://github.com/santipu03/santipu03/blob/main/private-audits/dHEDGE_Aave.md)            |
 | [Beraborrow](https://www.beraborrow.com/) |  November 2024  | Stablecoin (Liquity Fork) | [Sherlock](https://www.sherlock.xyz/)      | Team |  [link](https://github.com/santipu03/santipu03/blob/main/private-audits/Beraborrow_Report.pdf)             |
