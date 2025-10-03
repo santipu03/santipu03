@@ -4,6 +4,8 @@ Hello there! 🙌
 
 I’m Santipu, a **Blockchain Security Researcher** who mainly works on contest platforms such as [Sherlock](https://www.sherlock.xyz/), [Code4rena](https://code4rena.com/), and [Cantina](https://cantina.xyz/). I’ve had the chance to place on the podium multiple times in audit contests, including more than 10x top-3 finishes, and I’ve collaborated with leading audit firms like [Pashov Audit Group](https://www.pashov.net/) and [Bailsec](https://bailsec.io/).
 
+I specialize in auditing a wide range of DeFi protocols, with strong expertise in **lending markets** (Aave, Morpho, Ajna, Exactly), **stablecoins** (Liquity forks, Flat Money, Angle), **perpetuals** and **derivatives**, **staking** and **LST/LRT** systems (Stader, Inception LRT, GogoPool), as well as some Curve-style AMMs, wrappers, and PSMs. I’ve also reviewed vaults, cross-chain integrations, marketplaces, options, and SocialFi/GameFi projects.
+
 Request an audit directly at [@santipu_](https://x.com/santipu_).
 
 ## 🔎 Public Audits Contests
