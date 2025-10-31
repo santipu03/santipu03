@@ -38,6 +38,8 @@ Request an audit directly at [@santipu_](https://x.com/santipu_).
 
 |    Audit     |    Date    | Category  | Provider      | Solo/Team |  Report  |
 |----------|--------------|------|---------|----|-----|
+| [deBridge](https://debridge.com/) |  October 2025  | Crosschain Intents | [Bailsec](https://bailsec.io/)      | Team |  _pending_             |
+| [LIsta DAO Liquidator](https://lista.org/) |  October 2025  | Lending (Morpho fork) | [Bailsec](https://bailsec.io/)      | Team |  _pending_             |
 | [SuperLend](https://www.superlend.xyz/) |  September 2025  | Lending Vaults | [Sherlock](https://www.sherlock.xyz/)     | Team |  _pending_             |
 | [Paymonade](https://paymonade.tech/) |  September 2025  | Curve Wrapper | [Bailsec](https://bailsec.io/)      | Team |  _pending_             |
 | [Lista DAO DEX](https://lista.org/) |  September 2025  | Curve StableSwap Fork | [Bailsec](https://bailsec.io/)      | Team |  _pending_             |
