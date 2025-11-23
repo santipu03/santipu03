@@ -2,7 +2,7 @@
 
 Hello there! 🙌
 
-I’m Santipu, a **Blockchain Security Researcher** who mainly works on contest platforms such as [Sherlock](https://www.sherlock.xyz/), [Code4rena](https://code4rena.com/), and [Cantina](https://cantina.xyz/). I’ve had the chance to place on the podium multiple times in audit contests, including more than 10x top-3 finishes, and I’ve collaborated with leading audit firms like [Pashov Audit Group](https://www.pashov.net/), [BurraSec](https://www.burrasec.com/), and [Bailsec](https://bailsec.io/).
+I’m Santipu, a **Blockchain Security Researcher** who mainly works on contest platforms such as [Sherlock](https://www.sherlock.xyz/), [Code4rena](https://code4rena.com/), and [Cantina](https://cantina.xyz/). I’ve had the chance to place on the podium multiple times in audit contests, including more than 10x top-3 finishes, and I’ve collaborated with leading audit firms like [Pashov Audit Group](https://www.pashov.net/), [BurraSec](https://www.burrasec.com/), [Sherlock](https://sherlock.xyz/),  and [Bailsec](https://bailsec.io/).
 
 I specialize in auditing a wide range of DeFi protocols, with strong expertise in **lending markets** (Aave, Morpho, Ajna, Exactly), **stablecoins** (Liquity forks, Flat Money, Angle), **perpetuals** and **derivatives**, **staking** and **LST/LRT** systems (Stader, Inception LRT, GogoPool), as well as some Curve-style AMMs, wrappers, and PSMs. I’ve also reviewed vaults, cross-chain integrations, marketplaces, options, and SocialFi/GameFi projects.
 
@@ -13,7 +13,7 @@ Request an audit directly at [@santipu_](https://x.com/santipu_).
 | Contest                | Ranking | Category  | Solo/Team       | Platform       | Report  |
 |------------------------|---------|---------------|--------|--------|---------|
 |  [Beraborrow](https://cantina.xyz/competitions/d4835c42-fc76-4fea-8e2c-70449237fc0e)            | 🥇 1st     | Stablecoin (Liquity Fork)  |Solo| Cantina       |  _pending_   |
-|  [dHEDGE](https://audits.sherlock.xyz/contests/288)            | 🥇 1st     | Vaults  |Solo| Sherlock       |  _private_   |
+|  [dHEDGE](https://audits.sherlock.xyz/contests/288)            | 🥇 1st     | Managed Vaults  |Solo| Sherlock       |  _private_   |
 |  [MagicSea](https://audits.sherlock.xyz/contests/437)            | 🥇 1st     | Rewards |Solo | Sherlock       |  [link](https://github.com/sherlock-audit/2024-06-magicsea-judging/issues)       |
 |  [Flat Money V2](https://audits.sherlock.xyz/contests/620)            | 🥈 2nd     | Stablecoin / Perps |Solo | Sherlock       |  _private_              |
 |  [Exactly](https://audits.sherlock.xyz/contests/247)            | 🥈 2nd      | Lending  |Solo| Sherlock       |  [link](https://github.com/sherlock-audit/2024-04-interest-rate-model-judging/issues)              |
