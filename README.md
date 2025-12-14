@@ -15,6 +15,7 @@ Request an audit directly at [@santipu_](https://x.com/santipu_).
 |  [Beraborrow](https://cantina.xyz/competitions/d4835c42-fc76-4fea-8e2c-70449237fc0e)            | 🥇 1st     | Stablecoin (Liquity Fork)  |Solo| Cantina       |  _pending_   |
 |  [dHEDGE](https://audits.sherlock.xyz/contests/288)            | 🥇 1st     | Managed Vaults  |Solo| Sherlock       |  _private_   |
 |  [MagicSea](https://audits.sherlock.xyz/contests/437)            | 🥇 1st     | Rewards |Solo | Sherlock       |  [link](https://github.com/sherlock-audit/2024-06-magicsea-judging/issues)       |
+|  [Rezerve Money](https://audits.sherlock.xyz/contests/1134)            | 🥈 2nd     | Olympus DAO Fork |Team (KaplanLabs) | Sherlock       |  _private_              |
 |  [Flat Money V2](https://audits.sherlock.xyz/contests/620)            | 🥈 2nd     | Stablecoin / Perps |Solo | Sherlock       |  _private_              |
 |  [Exactly](https://audits.sherlock.xyz/contests/247)            | 🥈 2nd      | Lending  |Solo| Sherlock       |  [link](https://github.com/sherlock-audit/2024-04-interest-rate-model-judging/issues)              |
 |  [Flat Money](https://audits.sherlock.xyz/contests/132)            | 🥈 2nd     | Stablecoin / Perps |Solo | Sherlock       |  [link](https://github.com/sherlock-audit/2023-12-flatmoney-judging/issues)               |
@@ -38,6 +39,10 @@ Request an audit directly at [@santipu_](https://x.com/santipu_).
 
 |    Audit     |    Date    | Category  | Provider      | Solo/Team |  Report  |
 |----------|--------------|------|---------|----|-----|
+| [Orbitals](https://www.orbitals.gg/) |  December 2025  | NFTs | [Sub7](https://sub7.tech/)      | Solo |  _pending_             |
+| [Byzantine Finance](https://www.byzantine.fi/) |  November 2025  | Hedge Vaults | [Sherlock](https://www.sherlock.xyz/)      | Team |  _pending_             |
+| [Zaiffer USDX](https://www.zaiffer.org/) |  November 2025  | Confidential Stablecoin | [BurraSec](https://www.burrasec.com/)      | Team |  _pending_             |
+| [Protos Finance](https://www.protos.finance/) |  November 2025  | Staked Bitcoin | [Bailsec](https://bailsec.io/)      | Team |  _pending_             |
 | [deBridge](https://debridge.com/) |  October 2025  | Crosschain Intents | [Bailsec](https://bailsec.io/)      | Team |  _pending_             |
 | [LIsta DAO Liquidator](https://lista.org/) |  October 2025  | Lending (Morpho fork) | [Bailsec](https://bailsec.io/)      | Team |  _pending_             |
 | [SuperLend](https://www.superlend.xyz/) |  September 2025  | Lending Vaults | [Sherlock](https://www.sherlock.xyz/)     | Team |  _pending_             |
@@ -72,6 +77,7 @@ Request an audit directly at [@santipu_](https://x.com/santipu_).
 
 | Protocol               | Date          | Severity    |  Report  |
 |------------------------|---------------|-------------|---------|
+|  [OpenZeppelin](https://www.openzeppelin.com/)    | December 2025  | Medium  | _private_         |
 |  [Lido on Polygon](https://polygon.lido.fi/)    | March 2025  | Medium  | _private_         |
 |  [Enzyme Finance](https://enzyme.finance/)    | February 2025  | Low  | _private_         |
 |  [Umami Finance](https://defillama.com/protocol/umami-finance)    | January 2024  | Medium  | _private_         |
