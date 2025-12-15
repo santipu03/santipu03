@@ -41,7 +41,7 @@ Request an audit directly at [@santipu_](https://x.com/santipu_).
 |----------|--------------|------|---------|----|-----|
 | [Orbitals](https://www.orbitals.gg/) |  December 2025  | NFTs | [Sub7](https://sub7.tech/)      | Solo |  _pending_             |
 | [Byzantine Finance](https://www.byzantine.fi/) |  November 2025  | Hedge Vaults | [Sherlock](https://www.sherlock.xyz/)      | Team |  _pending_             |
-| [Zaiffer USDX](https://www.zaiffer.org/) |  November 2025  | Confidential Stablecoin | [BurraSec](https://www.burrasec.com/)      | Team |  _pending_             |
+| [Zaiffer USDX](https://www.zaiffer.org/) |  November 2025  | Confidential Stablecoin (FHE) | [BurraSec](https://www.burrasec.com/)      | Team |  _pending_             |
 | [Protos Finance](https://www.protos.finance/) |  November 2025  | Staked Bitcoin | [Bailsec](https://bailsec.io/)      | Team |  _pending_             |
 | [deBridge](https://debridge.com/) |  October 2025  | Crosschain Intents | [Bailsec](https://bailsec.io/)      | Team |  _pending_             |
 | [LIsta DAO Liquidator](https://lista.org/) |  October 2025  | Lending (Morpho fork) | [Bailsec](https://bailsec.io/)      | Team |  _pending_             |
