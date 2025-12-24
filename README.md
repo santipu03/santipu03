@@ -25,6 +25,7 @@ Request an audit directly at [@santipu_](https://x.com/santipu_).
 |  [Ajna](https://audits.sherlock.xyz/contests/114)                  | 🥉 3rd     | Lending  |Solo | Sherlock       |  [link](https://github.com/sherlock-audit/2023-09-ajna-judging/issues)        |
 |  [Smilee Finance](https://audits.sherlock.xyz/contests/180)            | 🥉 3rd     | Options|Solo   | Sherlock       |  [link](https://github.com/sherlock-audit/2024-02-smilee-finance-judging/issues)              |
 |  [Exactly Update](https://audits.sherlock.xyz/contests/396)            | 🥉 3rd     | Lending |Solo  | Sherlock       |  [link](https://github.com/sherlock-audit/2024-07-exactly-stacking-contracts-judging/issues)              |
+|  [Inverse Finance](https://audits.sherlock.xyz/contests/1202)            | 🥉 3rd     | Lending / Stablecoin |Team (KaplanLabs)  | Sherlock       |  [link](https://audits.sherlock.xyz/contests/1202)      |
 |  [Ethereum Credit Guild](https://code4rena.com/audits/2023-12-ethereum-credit-guild) | 4th     | Lending|Solo  | Code4rena      |  [link](https://code4rena.com/reports/2023-12-ethereumcreditguild)              |
 |  [StakeUp](https://cantina.xyz/competitions/61087007-c7e9-4c4e-9d90-4e118933fecf) | 4th     | Stablecoin |Team (KaplanLabs)| Cantina      |  [link](https://cantina.xyz/competitions/61087007-c7e9-4c4e-9d90-4e118933fecf)              |
 |  [Curves](https://code4rena.com/audits/2024-01-curves#top)                | 5th     | SocialFi|Solo   | Code4rena      |  [link](https://code4rena.com/reports/2024-01-curves)                  |
