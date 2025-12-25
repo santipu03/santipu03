@@ -12,7 +12,7 @@ Request an audit directly at [@santipu_](https://x.com/santipu_).
 
 | Contest                | Ranking | Category  | Solo/Team       | Platform       | Report  |
 |------------------------|---------|---------------|--------|--------|---------|
-|  [Beraborrow](https://cantina.xyz/competitions/d4835c42-fc76-4fea-8e2c-70449237fc0e)            | 🥇 1st     | Stablecoin (Liquity Fork)  |Solo| Cantina       |  _pending_   |
+|  [Beraborrow](https://cantina.xyz/competitions/d4835c42-fc76-4fea-8e2c-70449237fc0e)            | 🥇 1st     | Stablecoin (Liquity Fork)  |Solo| Cantina       |  [link](https://github.com/santipu03/santipu03/blob/main/private-audits/Cantina_Beraborrow.pdf)   |
 |  [dHEDGE](https://audits.sherlock.xyz/contests/288)            | 🥇 1st     | Managed Vaults  |Solo| Sherlock       |  _private_   |
 |  [MagicSea](https://audits.sherlock.xyz/contests/437)            | 🥇 1st     | Rewards |Solo | Sherlock       |  [link](https://github.com/sherlock-audit/2024-06-magicsea-judging/issues)       |
 |  [Rezerve Money](https://audits.sherlock.xyz/contests/1134)            | 🥈 2nd     | Olympus DAO Fork |Team (KaplanLabs) | Sherlock       |  _private_              |
