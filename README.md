@@ -40,15 +40,21 @@ Request an audit directly at [@santipu_](https://x.com/santipu_).
 
 |    Audit     |    Date    | Category  | Provider      | Solo/Team |  Report  |
 |----------|--------------|------|---------|----|-----|
+| [VaultEdge Update](https://www.vaultedge.fi/) |  March 2026  | Stablecoin (Liquity Fork) | [Bailsec](https://bailsec.io/)     | Team |  _pending_             |
+| [Vyro Finance](https://vyro.finance/) |  February 2026  | Stablecoin (Liquity Fork) | [Sherlock](https://www.sherlock.xyz/)     | Team |  [link](https://github.com/santipu03/santipu03/blob/main/private-audits/Sherlock_Vyro_Report.pdf)             |
+| [SuperLend update](https://www.superlend.xyz/) |  February 2026  | Lending Vaults | [Sherlock](https://www.sherlock.xyz/)     | Team |  [link](https://github.com/santipu03/santipu03/blob/main/private-audits/Sherlock_Superlend_Update_Report.pdf)             |
+| [Parallel Update](https://app.parallel.best/) |  January 2026  | PSM (Angle Fork) | [Bailsec](https://bailsec.io/)      | Team |  _pending_       |
+| [Byzantine Finance #2](https://www.byzantine.fi/) |  January 2026  | Hedge Vaults | [Sherlock](https://www.sherlock.xyz/)      | Team |  _pending_             |
+| [dHEDGE DYTM](https://github.com/santipu03/santipu03) |  December 2025  | Lending Vaults | [Sherlock](https://www.sherlock.xyz/)     | Team |  [link](https://github.com/santipu03/santipu03/blob/main/private-audits/Sherlock_dHEDGE_Report.pdf)             |
 | [Orbitals](https://www.orbitals.gg/) |  December 2025  | NFTs | [Sub7](https://sub7.tech/)      | Solo |  _pending_             |
 | [Byzantine Finance](https://www.byzantine.fi/) |  November 2025  | Hedge Vaults | [Sherlock](https://www.sherlock.xyz/)      | Team |  _pending_             |
-| [Zaiffer USDX](https://www.zaiffer.org/) |  November 2025  | Confidential Stablecoin (FHE) | [BurraSec](https://www.burrasec.com/)      | Team |  _pending_             |
+| [Zaiffer USDX](https://www.zaiffer.org/) |  November 2025  | Confidential Stablecoin (FHE) | [BurraSec](https://www.burrasec.com/)      | Team |  [link](https://github.com/santipu03/santipu03/blob/main/private-audits/Burrasec_Zaiffer_Report.pdf)             |
 | [Protos Finance](https://www.protos.finance/) |  November 2025  | Staked Bitcoin | [Bailsec](https://bailsec.io/)      | Team |  _pending_             |
 | [deBridge](https://debridge.com/) |  October 2025  | Crosschain Intents | [Bailsec](https://bailsec.io/)      | Team |  _pending_             |
 | [LIsta DAO Liquidator](https://lista.org/) |  October 2025  | Lending (Morpho fork) | [Bailsec](https://bailsec.io/)      | Team |  _pending_             |
-| [SuperLend](https://www.superlend.xyz/) |  September 2025  | Lending Vaults | [Sherlock](https://www.sherlock.xyz/)     | Team |  _pending_             |
+| [SuperLend](https://www.superlend.xyz/) |  September 2025  | Lending Vaults | [Sherlock](https://www.sherlock.xyz/)     | Team |  [link](https://github.com/santipu03/santipu03/blob/main/private-audits/Sherlock_Superlend_Report.pdf)             |
 | [Paymonade](https://paymonade.tech/) |  September 2025  | Curve Wrapper | [Bailsec](https://bailsec.io/)      | Team |  _pending_             |
-| [Lista DAO DEX](https://lista.org/) |  September 2025  | Curve StableSwap Fork | [Bailsec](https://bailsec.io/)      | Team |  _pending_             |
+| [Lista DAO DEX](https://lista.org/) |  September 2025  | Curve StableSwap Fork | [Bailsec](https://bailsec.io/)      | Team |  [link](https://github.com/santipu03/santipu03/blob/main/private-audits/Bailsec_ListaDAO_DEX_Report.pdf)             |
 | [VaultEdge](https://www.vaultedge.fi/) |  July 2025  | Stablecoin (Liquity Fork) | [Bailsec](https://bailsec.io/)      | Team |  _pending_             |
 | [LFJ](https://lfj.gg/avalanche) #2 (prev. Trader Joe) |  June 2025  | Router | [Bailsec](https://bailsec.io/)      | Team |  _pending_             |
 | [Inception LRT](https://www.inceptionlrt.com/) |  May 2025  | LST and LRT | [Bailsec](https://bailsec.io/)       | Team | [link](https://github.com/santipu03/santipu03/blob/main/private-audits/Bailsec_InceptionLRT_Report.pdf)           |
