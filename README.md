@@ -12,6 +12,7 @@ Request an audit directly at [@santipu_](https://x.com/santipu_).
 
 | Contest                | Ranking | Category  | Solo/Team       | Platform       | Report  |
 |------------------------|---------|---------------|--------|--------|---------|
+|  [Olas](https://code4rena.com/audits/2026-01-olas)            | 🥇 1st     | AI Agents  |Solo| Code4rena       |  _pending_  |
 |  [Beraborrow](https://cantina.xyz/competitions/d4835c42-fc76-4fea-8e2c-70449237fc0e)            | 🥇 1st     | Stablecoin (Liquity Fork)  |Solo| Cantina       |  [link](https://github.com/santipu03/santipu03/blob/main/private-audits/Cantina_Beraborrow.pdf)   |
 |  [dHEDGE](https://audits.sherlock.xyz/contests/288)            | 🥇 1st     | Managed Vaults  |Solo| Sherlock       |  _private_   |
 |  [VII Finance](https://cantina.xyz/competitions/eb93d215-e328-4d19-99ab-6c510acbb5aa)            | 🥇 1st     | Uniswap Collateral Vaults  |Solo| Cantina       |  _pending_   |
